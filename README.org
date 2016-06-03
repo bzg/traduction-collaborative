@@ -1,0 +1,6 @@
+#+title: Traduction Collaborative
+
+Mise en forme des retours collectés autour de la traduction chez
+[[https://mensuel.framapad.org/p/traduction-libre-et-ouverte][Framasoft]] et sur [[https://mensuel.framapad.org/p/wikipedia-traduction][Wikipédia]].
+
+
