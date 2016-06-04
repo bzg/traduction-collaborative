@@ -1,0 +1,219 @@
+#+title: Traduction professionnel et collaborative ?
+
+/Interview de Samy Boutayeb./
+
+[Et autres?]
+
+* Comment les outils informatiques et/ou Internet changent votre travail?
+
+Ils sont à l'origine d'une évolution permanente, hormis les
+fondamentaux du métier ! Un métier que j'ai appris et pratiqué à
+l'ancienne, et donc sur papier, à grands coups de dictionnaire(s) et
+de fréquentation de bibliothèques et de centres de documentation, puis
+sur machine à écrire à ruban. C'était l'époque héroïque des gommes et
+caches (0), indispensables pour corriger les erreurs sur l'original et
+le double, un exercice que l'usage du papier carbone rendait encore
+plus délicat.
+
+Aujourd'hui, après un épisode "traitement de texte", la profession est
+définitivement en ligne (et globalisée, cela va de soi). Tout a
+changé : de la relation client-fournisseur (qui est adossée à des
+outils de CRM (gestion de la relation client) à la gestion de projet
+(attribution des projets, exécution de la prestation, remise des
+livrables, facturation) en passant par la gestion des documents
+(édition monoposte à l'aide d'un outil de "Traduction Assistée par
+Ordinateur", utilisant une "mémoire de traduction" sur serveur, une
+"base de données terminologique" en ligne, ou bien édition
+collaborative), on en arrive à travailler en mobilité, en réseau
+globalisé et à flux tendu, les délais de transmission de l'époque pas
+si lointaine du coursier ou du courrier postal étant raccourcis au
+maximum à toutes les étapes des projets.
+
+La recherche documentaire et terminologique multilingue, quant à elle,
+a bénéficié du réseau des réseaux dès les débuts, en s'appuyant sur
+toutes les ressources en ligne possibles et imaginables (corpus
+textuels multilingues, bases de données terminologiques en ligne,
+documents de référence pour tous les besoins du
+professionnel). Exemples : dans un cadre institutionnel, la base
+terminologique de Communauté Européenne, IATE (1), ou, dans un cadre
+entrepreneurial, le plus récent Linguee, un corpus textuel couvrant
+plusieurs paires de langues (2).
+
+On trouve bien entendu de bonnes choses et du moins bon. Dans cette
+deuxième catégorie, le traducteur "pro" inclura sagement Google
+Translate (3), qui n'est pas un outil au sens strict, et n'a donc pas
+à figurer dans la panoplie du traducteur professionnel, mais un moteur
+de traduction automatique, qui peut éventuellement dépanner
+l'amateur. En revanche, lorsque le "traducteur humain" touche à la
+traduction automatique, c'est le plus souvent pour faire de la
+post-édition de traductions machine, une tâche jugée ingrate et peu
+valorisante. Autre changement récent, portant cette fois sur les
+thématiques : la traduction de mots-clés de moteurs de recherche, dans
+une optique SEO, ou Search Engine Optimization (4). Enfin, parmi les
+outils qui apportent un plus au quotidien, on mentionnera les
+correcteurs orthographiques/grammaticaux, les outils d'assurance
+qualité, généralement intégrés aux logiciels métier, ou , dans la
+catégorie des technologies d'assistance, la dictée vocale.
+
+(0) http://j.poitou.free.fr/pro/img-p/tkn/tw-effacer.html
+(1) https://fr.wikipedia.org/wiki/Terminologie_interactive_pour_l%27Europe et  http://iate.europa.eu/SearchByQueryLoad.do?method=load
+(2) https://fr.wikipedia.org/wiki/Linguee et http://www.linguee.com/
+(3) https://fr.wikipedia.org/wiki/Google_Traduction
+(4) https://fr.wikipedia.org/wiki/Optimisation_pour_les_moteurs_de_recherche
+
+* Est-ce que vous faites beaucoup de traduction à plusieurs mains dans votre activité professionnelle ?
+
+C'est devenu la règle depuis quelques années, sous la houlette du
+"PM", le chef de projet, qui reste le point névralgique de la plupart
+des projets actuels. On peut ainsi travailler à plusieurs sur
+plusieurs chapitres d'un manuel volumineux, ou bien "segment par
+segment" sur le même document, les traductions étant téléversées dès
+leur validation par un traducteur dans une "mémoire de traduction"
+partagée, qui est une sorte de base de données textuelle
+bilingue/plurilingue. Chacun (traducteur ou relecteur) peut avoir
+l'impression d'être seul derrière son écran, mais l'assemblage des
+chapitres ou parties des documents est traité par le chef de projet,
+afin de répondre aux exigences posées par les versions successives
+d'un même contenu, publié dans plusieurs langues, sur plusieurs
+supports et intégrant différents médias, après être passé entre les
+mains d'une succession de contributeurs.
+
+La tendance actuelle est de mettre à disposition des acteurs du métier
+des outils intégrés (pour la gestion de projets, la communication
+entre les membres d'un projet ou bien l'échange des données et des
+documents). Le marché des outils professionnels est dominé par une
+poignée d'éditeurs commerciaux qui ont effectivement intégré des
+fonctionnalités collaboratives à leurs logiciels, tout en s'efforçant
+de verrouiller leur mode de fonctionnement (au niveau des formats de
+documents propriétaires notamment) afin de garder captifs, tant que
+faire se peut, leur utilisateurs.
+
+Par ailleurs, l'accès aux outils d'aide à la traduction constitue un
+investissement à la fois technique et financier pour les traducteurs
+professionnels et un obstacle de même nature pour les traducteurs
+occasionnels. Ces derniers pourront lever cet obstacle en utilisant
+des outils libres et de qualité professionnelle comme OmegaT (5).
+
+(5) http://www.omegat.org/fr/omegat.html et https://fr.wikipedia.org/wiki/OmegaT
+
+* Est-ce que des outils ou des sites vous aident à faire de la traduction collaborative?
+
+L'état de l'art de la traduction collaborative emprunte aux serveurs
+de traductions, qui sont gérés par des systèmes de bases de données
+(MySQL par ex.) et présentent sur un navigateur Web les documents à
+traduire sous forme de textes segmentés dans des tableaux, les
+contenus étant versés dans des mémoires de traduction en
+réseau. Citons, dans cette catégorie, les plateformes libres Pootle
+(6) et Translatewiki.net (7) ou le service commercial Transiflex (8).
+
+ (6) http://pootle.translatehouse.org/ et https://en.wikipedia.org/wiki/Pootle
+ (7) https://translatewiki.net/ et https://en.wikipedia.org/wiki/Translatewiki.net
+ (8) https://www.transifex.com/ et https://en.wikipedia.org/wiki/Transifex
+ 
+* Est-ce que vous avez des expériences de collaboration « mixtes », entre professionnels et amateurs ?  Si oui, avez-vous des remarques ou des leçons à en tirer?
+
+Généralement, ce sont deux univers qui s'ignorent. On observe
+toutefois un effort, chez certains acteurs professionnels de la
+traduction, sous la pression de la concurrence et dans un objectif de
+rationalisation, de s'inspirer des bonnes pratiques du génie logiciel
+et en particulier de la branche de la "localisation logicielle" :
+utilisation d'outils collaboratifs, de type "forge logicielle"
+notamment, suivi de versions d'un document, virtualisation tous
+azimuts, recours aux standards documentaires pour l'échange de données
+(formats normalisés d'échanges de données textuelles, terminologiques,
+dérivées du XML, comme les  formats TMX (Translation Memory Exchange
+(9) pour les mémoires de traduction, ou TBX (Termbase eXchange) pour
+les données terminologiques (10). Dans une démarche analogue, le
+traducteur professionnel a tout intérêt à prendre en compte les
+trouvailles et solutions que les "amateurs" ont choisies et parfois
+mises au point pour leurs propres projets.
+
+Au chapitre de la collaboration entre professionnels et amateurs, la
+communauté, Global Voices (11) mérite une mention particulière. Elle
+s'appuie sur une excellente plateforme de traduction collaborative de
+type Wiki, accessible y compris pour des non professionnels de la
+traduction, tout en étant fonctionnelle et attrayante pour les
+traducteurs professionnels. Dans ce genre de projets communautaires,
+ce qui est valorisé, c'est la compétence pour une tâche donnée
+(rédaction journalistique, traduction ou autre) et la contribution
+concrète de chacun, quel que soit le métier ou le statut professionnel
+des différents contributeurs.
+
+On observe également des rapprochements ponctuels, autour d'un projet,
+entre acteurs professionnels du secteur des langues, apportant leur
+expertise et leurs ressources, et acteurs représentant la "société
+civile", exprimant des besoins, notamment pour la traduction de
+contenus, comme on a pu le voir à Berlin, début 2016, dans le contexte
+de l'accueil des demandeurs d'asile arrivant en Allemagne.
+
+ (9) http://www.xmlfacile.com/guide_xml/fichier_de_traduction_tmx_1.php5
+(10) http://www.tbxconvert.gevterm.net/
+(11) https://globalvoices.org
+
+* Est-ce que les contenus libres représentent un marché potentiel?  Ou bien ces contenus sont-ils toujours traduits par des amateurs ?
+
+Pour l'édition de logiciels sous licences libres, il a fallu, dans
+l'ensemble, attendre Android pour que des éditeurs d'applications
+s'adressent à des traducteurs professionnels pour traduire leurs
+interfaces utilisateurs ou les données de ces applications. Cette
+démarche d'éditeurs privés présuppose un marché et une distribution
+payante des logiciels/applications ainsi localisés.
+
+Quant aux logiciels libres, ils sont, à ma connaissance, exclusivement
+localisés par la communauté du logiciel libre. A mes yeux, les
+"amateurs" n'ont pas à rougir de s'être pris eux-même en charge : le
+résultat est probant et la qualité est au rendez-vous. Je ne parle
+même pas des volumes, qui sont extrêmement impressionnants et
+témoignent d'une dynamique irremplaçable. Pour s'en convaincre,
+prenons à titre d'exemple la liste des langues (12) prises en compte
+dans le projet de la plateforme éducative Sugar (13), reflétant une
+démarche privilégiant le besoin réel des locuteurs de ces langues
+négligées par les éditeurs de logiciels traditionnels plutôt que le
+poids d'un quelconque marché.
+
+Dans le secteur de l'édition, les projets de traduction autour des
+contenus libres sont une variante intéressante à plus d'un titre : on
+trouve ainsi des contenus sous licence libre, traduits par des experts
+d'une thématique ou d'un domaine et diffusés par des éditeurs en
+empruntant les circuits traditionnels de l'édition, voire un double
+circuit libre/commercial. Citons à cet égard la biographie de Richard
+Stallman (14), parue chez Eyrolles & Framabook. Il m'est arrivé
+également, à titre professionnel, de participer à des projets dérivés
+de contenus libres, avec des traductions éditoriales de manuels
+utilisateurs portant sur des logiciels libres, publiées de manière
+très classique, chez différents éditeurs.
+
+Ainsi, les contenus libres, relevant du secteur  non marchand, ont
+toute leur place dans la galaxie de la traduction/localisation. Les
+nombreux projets de traduction collaborative qui voient le jour en
+sont la preuve vivante : qu'il s'agisse de jeux, comme Wesnoth (15),
+de systèmes d'exploitation, comme Debian (16 et 17) ou de logiciels
+éducatifs, comme OOo4Kids (18). C'est, j'en suis convaincu, une
+"nouvelle frontière", dont l'exploration ouvre des perspectives
+passionnantes, ce qu'illustrent pour leur part des projets porteurs
+comme le Refugee Phrasebook (19), un projet né de l'urgence et
+palliant, sur le terrain, aux insuffisances institutionnelles,  ou le
+projet éditorial "Open Models", s'emparant de thématiques encore trop
+jeunes ou insuffisamment rentables pour être récupérées par les
+circuits marchands.
+
+* En fin de compte, quel sens peut-on trouver à ce tableau et quels sont les enjeux de cette activité multilingue, si riche et multiforme ? 
+
+La situation qui est ainsi dépeinte est le corollaire de la
+globalisation : un phénomène éminemment positif, dans lequel
+s'inscrivent les projets communautaires portés par la société civile
+et qui est révélateur de la volonté de ces acteurs de rester ancrés
+dans les communautés locales de leurs publics. Ces derniers restent en
+effet largement attachés à communiquer dans leurs propres
+langues. Cette exigence constitue un enjeu majeur pour les acteurs de
+la traduction, qu'il soient professionnels ou amateurs.
+
+(12) http://translate.sugarlabs.org/
+(13) https://www.sugarlabs.org/
+(14) http://framabook.org/richard-stallman-et-la-revolution-du-logiciel-libre-2/
+(15) http://wiki.wesnoth.org/FrenchTranslation
+(16) https://www.debian.org/doc/manuals/intro-i18n/
+(17) https://lists.debian.org/i18n.html
+(18) http://educoo.org/TelechargerOOo4Kids.php
+(19) http://www.refugeephrasebook.de/
+

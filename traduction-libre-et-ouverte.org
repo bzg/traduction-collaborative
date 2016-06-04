@@ -1,0 +1,139 @@
+#+title: Plongée dans la traduction collaborative chez Framasoft
+
+* Comment fonctionnent les traductions d'articles sur le Framablog ?
+
+/De la sélection des articles à traduire à la publication et à la modération des commentaires)./
+
+Tout est fait de manière communautaire. Un-e membre du groupe
+Framalang propose aux autres une traduction sur notre mailing
+list. Dès que 2 ou 3 membres annoncent qu'iels sont d'accord pour
+traduire, on se prépare le texte et on lance la traduction sur un pad.
+
+Il y a en général deux phases : une de traduction "brute", où un
+maximum de gens interviennent pour traduire collaborativement le texte
+(chacun-e son paragraphe, même si on peut intervenir sur les
+traductions des autres ou échanger en direct sur le choix pour
+traduire tel ou tel terme). La deuxième phrase est une phrase de
+relecture, où quelques volontaires relisent le texte pour trancher
+dans les choix de traduction restants, homogénéiser la traduction
+(lisser la traduction de tel ou tel terme sur tout le document),
+chasser les coquilles, anglicismes et faux-amis...
+
+Puis, quelques membres du groupe (qui ont un compte sur le Framablog)
+reprennent le pad pour le mettre en page sur le blog, en y ajoutant un
+chapô (pour contextualiser l'article), les sources, des illustrations,
+les mentions des traducteurs et traductrices.
+
+Une fois l'article publié, c'est l'équipe du framablog qui se charge
+de répondre aux commentaires et de les modérer, mais on a de la
+chance : nous avons un lectorat très respectueux.
+
+* Quels outils (libres!) utilisez-vous ? 
+
+Nous hébergeons nos mailing listes avec Sympa, nous utilisons Framapad
+(notre instance d'Etherpad) avec l’extension MyPads
+https://mypads.framapad.org/mypads/?/login pour la traduction
+collaborative, et Wordpress pour ce qui est du blog.
+
+Le groupe a aussi développé un petit outil de suivi en php qui nous
+permet de retrouver facilement les adresses des pads et de suivre leur
+avancement.
+
+Enfin, pour se détendre entre nous, nous avons ouvert une Team "le bar
+Framalang" sur Framateam (une instance de Mattermost). Mais c'est
+juste un espace de convivialité (afin de ne pas flooder les listes
+emails) : il est interdit d'y parler boulot dessus ^^ !
+
+* Est-ce qu'il y a des outils qui vous manquent ?  Si oui, lesquels ?
+
+Euh… du temps ?
+
+Certes il manque souvent des mémoires de traduction, mais comme chaque
+projet de traduction est en quelque sorte « unique » (un article de
+presse, un tutoriel de logiciel… ) il nous suffit la plupart du temps
+de tenir à jour une petite liste de termes sur la traduction desquels
+nous sommes d'accord pour harmoniser l'ensemble de la traduction.
+
+Pour de plus gros projets de traduction, comme chez Mozilla
+francophone, nous avons un outil très efficace, le Transvision
+https://transvision.mozfr.org/, qui permet de « piocher » dans
+l'énorme base mise à jour quasi quotidiennement de toutes les
+traductions déjà effectuées sur les applications et les pages web, et
+ceci pour plus de 100 langues
+https://github.com/flodolo/mozilla-l10n-query/blob/master/app/sources/release.txt 
+
+* Quels conseils donneriez-vous à des groupes qui veulent traduire à plusieurs ?
+
+Eh bien, peut-être faut-il conjuguer horizontalité et verticalité.
+
+C'est-à-dire : 
+
+- ouvrir l'accès à la traduction au plus grand nombre, parce que la
+  traduction en phase de premier jet ne pourra que s'enrichir des
+  suggestions multiples et des regards croisés. Cette horizontalité
+  nécessite de se munir :
+
+  - d'un outil collaboratif quasi immédiatement
+    accessible, d'où notre choix d'un pad. Il faut avoir
+    bien présent à l'esprit que les compétences d'un bon
+    traducteur sont d'abord linguistiques et non
+    informatiques. donc si l'on souhaite recruter des
+    traducteurs du meilleur niveau possible, ne pas les
+    décourager en leur proposant des outils qui
+    demandent une initiation trop longue et des
+    compétences techniques. Git est par exemple un
+    excellent outil de développement collaboratif du
+    code, mais son accès peut tenir à l'écart de
+    nombreuses personnes qui apporteraient peut-être des
+    éléments de traduction précieux mais ne franchiront
+    pas l'obstacle d'un apprentissage de plus. De même
+    un outil ergonomique comme Transifex, très en vogue,
+    rend des services précieux, mais comme toutes les
+    plateformes de traduction qui découpent les textes
+    en chaînes à traduire, il rend difficile l'accès au
+    contexte, qui est un élément décisif pour déterminer
+    une traduction optimale.
+
+  - d'une bonne dose de tolérance et de modestie, car
+    lorsqu'on travaille ensemble sur un pad, on peut
+    voir d'un instant à l'autre sa traduction contestée,
+    modifiée, annulée (pas de panique la sauvegarde de
+    chaque édition est automatique), il faut accepter
+    l'idée que personne ne détient la meilleure
+    traduction, malgré les certitudes, le niveau
+    d'études, le bilinguisme, les références convoquées
+    etc. D'autre part les traducteur-ic-es médiocres, ça
+    existe, eh bien il faut considérer qu'en se
+    confrontant aux autres ils et elles apprendront à
+    s'améliorer et qu'il ne faut pas les exclure. C'est
+    peut-être difficile à admettre, mais un « mauvais »
+    traducteur qui prend en charge un paragraphe de dix
+    lignes, suivi par un correcteur qui révise
+    efficacement, à eux deux produisent un travail plus
+    rapide et efficace qu'un « bon » traducteur qui va
+    longtemps chercher tout seul la formulation idéale
+    et qui nécessitera de toutes façons une révision.
+
+- passer ensuite à un groupe plus restreint qui dispose des
+  compétences plus pointues et qui va pratiquer les révisions
+  nécessaires jusqu'à la phase finale. Cette verticalité n'est
+  pas un élitisme, mais repose sur une sorte de
+  spécialisation. Ce groupe ouvert à qui dispose des
+  compétences nécessaires devrait comprendre des « typonazis »
+  et des « grammarnazis ». Ces appellation plaisantes sont à
+  prendre au second degré : il s'agit de personnes très
+  exigeantes qui vont effectuer des corrections et mises en
+  forme, nettoyer les inévitables coquilles, ajouter les
+  espaces insécables, traquer le solécisme et atomiser le
+  barbarisme, débusquer les impropriétés, etc. Bref s'efforcer
+  de donner au rendu final une qualité la plus proche possible
+  de la qualité professionnelle. 
+
+Ah une dernière chose : toujours privilégier les contributeur-ice-s
+qui maîtrisent le mieux la langue-cible et non la langue source. Avec
+l'expérience, il nous semble indispensable que le rendu final soit
+contrôlé par un francophone natif si l'on traduit vers le français,
+par un anglophone natif si l'on traduit vers l'anglais etc. (les cas
+de vrais bilinguisme sont assez rares). Il faut que le lecteur oublie
+qu'il s'agit d'une traduction !
+
