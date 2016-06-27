@@ -1,65 +1,64 @@
-#+title: Traduction professionnel et collaborative ?
+#+title: Traduction professionnelle et collaborative
 
-/Interview de Samy Boutayeb./
+Interview de Samy Boutayeb - à présenter.
 
-[Et autres?]
+Nous avons voulu comprendre l'impact du numérique sur le travail
+quotidien des traducteurs professionnels - le « numérique » désignant
+ici un ensemble de contenus, d'outils et de pratiques potentiellement
+collaboratives.
 
-* Comment les outils informatiques et/ou Internet changent votre travail?
+* Comment Internet et les outils informatiques changent votre travail ?
 
-Ils sont à l'origine d'une évolution permanente, hormis les
-fondamentaux du métier ! Un métier que j'ai appris et pratiqué à
-l'ancienne, et donc sur papier, à grands coups de dictionnaire(s) et
-de fréquentation de bibliothèques et de centres de documentation, puis
-sur machine à écrire à ruban. C'était l'époque héroïque des gommes et
-caches (0), indispensables pour corriger les erreurs sur l'original et
-le double, un exercice que l'usage du papier carbone rendait encore
-plus délicat.
+Internet et les outils informatiques sont à l'origine d'une évolution
+permanente, mais qui ne touche pas les fondamentaux du métier.  Un
+métier que j'ai appris et pratiqué à l'ancienne, donc sur papier, à
+grands coups de dictionnaires, de fréquentation de bibliothèques et de
+centres de documentation, puis sur machine à écrire à ruban.  C'était
+l'époque héroïque des [[http://j.poitou.free.fr/pro/img-p/tkn/tw-effacer.html][gommes et caches]], indispensables pour corriger
+les erreurs sur l'original et le double, un exercice que l'usage du
+papier carbone rendait encore plus délicat.
 
-Aujourd'hui, après un épisode "traitement de texte", la profession est
-définitivement en ligne (et globalisée, cela va de soi). Tout a
-changé : de la relation client-fournisseur (qui est adossée à des
-outils de CRM (gestion de la relation client) à la gestion de projet
-(attribution des projets, exécution de la prestation, remise des
-livrables, facturation) en passant par la gestion des documents
-(édition monoposte à l'aide d'un outil de "Traduction Assistée par
-Ordinateur", utilisant une "mémoire de traduction" sur serveur, une
-"base de données terminologique" en ligne, ou bien édition
-collaborative), on en arrive à travailler en mobilité, en réseau
-globalisé et à flux tendu, les délais de transmission de l'époque pas
-si lointaine du coursier ou du courrier postal étant raccourcis au
-maximum à toutes les étapes des projets.
+Aujourd'hui, après un épisode « traitement de texte », la profession
+est définitivement en ligne - et globalisée, cela va de soi.
+
+Tout a changé : la relation client-fournisseur, désormais adossée à
+des outils de gestion de la relation client ; la gestion de projet
+avec l'attribution des projets, l'exécution de la prestation, la
+remise des livrables, la facturation ; la gestion des documents : soit
+en édition monoposte à l'aide d'outils de TAO (« Traduction Assistée
+par Ordinateur »), qui utilisent une mémoire de traduction sur serveur
+et une base de données terminologique en ligne, soit en édition
+collaborative.
+
+Nous travaillons aujourd'hui en mobilité, en réseau globalisé et à
+flux tendu, avec des délais de transmission qui se sont raccourcis à
+toutes les étapes des projets depuis l'époque, pas si lointaine, du
+coursier ou du courrier postal.
 
 La recherche documentaire et terminologique multilingue, quant à elle,
-a bénéficié du réseau des réseaux dès les débuts, en s'appuyant sur
-toutes les ressources en ligne possibles et imaginables (corpus
-textuels multilingues, bases de données terminologiques en ligne,
-documents de référence pour tous les besoins du
-professionnel). Exemples : dans un cadre institutionnel, la base
-terminologique de Communauté Européenne, IATE (1), ou, dans un cadre
-entrepreneurial, le plus récent Linguee, un corpus textuel couvrant
-plusieurs paires de langues (2).
+a bénéficié d'Internet dès les débuts, en s'appuyant sur toutes les
+ressources en ligne possibles et imaginables : corpus textuels
+multilingues, bases de données terminologiques en ligne, documents de
+référence pour tous les besoins du professionnel.  Exemples : dans un
+cadre institutionnel, la base terminologique de la Communauté
+Européenne [[https://fr.wikipedia.org/wiki/Terminologie_interactive_pour_l%2527Europe][IATE]] ou, dans un cadre entrepreneurial, le plus récent
+[[https://fr.wikipedia.org/wiki/Linguee][Linguee]], un corpus textuel couvrant plusieurs paires de langues.
 
 On trouve bien entendu de bonnes choses et du moins bon. Dans cette
-deuxième catégorie, le traducteur "pro" inclura sagement Google
-Translate (3), qui n'est pas un outil au sens strict, et n'a donc pas
-à figurer dans la panoplie du traducteur professionnel, mais un moteur
-de traduction automatique, qui peut éventuellement dépanner
-l'amateur. En revanche, lorsque le "traducteur humain" touche à la
-traduction automatique, c'est le plus souvent pour faire de la
-post-édition de traductions machine, une tâche jugée ingrate et peu
-valorisante. Autre changement récent, portant cette fois sur les
-thématiques : la traduction de mots-clés de moteurs de recherche, dans
-une optique SEO, ou Search Engine Optimization (4). Enfin, parmi les
-outils qui apportent un plus au quotidien, on mentionnera les
-correcteurs orthographiques/grammaticaux, les outils d'assurance
-qualité, généralement intégrés aux logiciels métier, ou , dans la
-catégorie des technologies d'assistance, la dictée vocale.
-
-(0) http://j.poitou.free.fr/pro/img-p/tkn/tw-effacer.html
-(1) https://fr.wikipedia.org/wiki/Terminologie_interactive_pour_l%27Europe et  http://iate.europa.eu/SearchByQueryLoad.do?method=load
-(2) https://fr.wikipedia.org/wiki/Linguee et http://www.linguee.com/
-(3) https://fr.wikipedia.org/wiki/Google_Traduction
-(4) https://fr.wikipedia.org/wiki/Optimisation_pour_les_moteurs_de_recherche
+deuxième catégorie, le traducteur « pro » inclura sagement [[https://fr.wikipedia.org/wiki/Google_Traduction][Google
+Translate]], qui n'est pas un outil au sens strict, et n'a donc pas à
+figurer dans la panoplie du traducteur professionnel, mais un moteur
+de traduction automatique, qui peut éventuellement dépanner l'amateur.
+En revanche, lorsque le « traducteur humain » touche à la traduction
+automatique, c'est le plus souvent pour faire de la post-édition de
+traductions machine, une tâche jugée ingrate et peu valorisante.
+Autre changement récent, portant cette fois sur les thématiques : la
+traduction de mots-clés de moteurs de recherche, dans une optique SEO,
+ou [[https://fr.wikipedia.org/wiki/Optimisation_pour_les_moteurs_de_recherche][Search Engine Optimization]].  Enfin, parmi les outils qui apportent
+un plus au quotidien, on mentionnera les correcteurs orthographiques
+et grammaticaux, les outils d'assurance qualité, généralement intégrés
+aux logiciels métier, ou, dans la catégorie des technologies
+d'assistance, la dictée vocale.
 
 * Est-ce que vous faites beaucoup de traduction à plusieurs mains dans votre activité professionnelle ?
 
