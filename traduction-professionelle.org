@@ -130,70 +130,59 @@ leur expertise et leurs ressources, et les acteurs représentant la
 de contenus, comme on a pu le voir à Berlin, début 2016, dans le
 contexte de l'accueil des demandeurs d'asile arrivant en Allemagne.
 
-* Est-ce que les contenus libres représentent un marché potentiel?  Ou bien ces contenus sont-ils toujours traduits par des amateurs ?
+* Est-ce que les contenus libres représentent un marché potentiel ?
 
-Pour l'édition de logiciels sous licences libres, il a fallu, dans
-l'ensemble, attendre Android pour que des éditeurs d'applications
-s'adressent à des traducteurs professionnels pour traduire leurs
-interfaces utilisateurs ou les données de ces applications. Cette
-démarche d'éditeurs privés présuppose un marché et une distribution
-payante des logiciels/applications ainsi localisés.
+Pour l'édition de logiciels sous licences libres, il a fallu attendre
+Android pour que des éditeurs d'applications s'adressent à des
+traducteurs professionnels pour traduire leurs interfaces ou leurs
+données.  Cette démarche d'éditeurs privés suppose un marché et une
+distribution payante des logiciels/applications ainsi localisés.
 
-Quant aux logiciels libres, ils sont, à ma connaissance, exclusivement
-localisés par la communauté du logiciel libre. A mes yeux, les
-"amateurs" n'ont pas à rougir de s'être pris eux-même en charge : le
-résultat est probant et la qualité est au rendez-vous. Je ne parle
-même pas des volumes, qui sont extrêmement impressionnants et
-témoignent d'une dynamique irremplaçable. Pour s'en convaincre,
-prenons à titre d'exemple la liste des langues (12) prises en compte
-dans le projet de la plateforme éducative Sugar (13), reflétant une
-démarche privilégiant le besoin réel des locuteurs de ces langues
-négligées par les éditeurs de logiciels traditionnels plutôt que le
-poids d'un quelconque marché.
+Quant aux logiciels libres, ils sont à ma connaissance exclusivement
+localisés de façon communautaire.  À mes yeux, les amateurs n'ont pas
+à rougir de s'être pris eux-mêmes en charge : le résultat est probant
+et la qualité est au rendez-vous.  Je ne parle même pas des volumes,
+qui sont extrêmement impressionnants et témoignent d'une dynamique
+irremplaçable.  Pour s'en convaincre, prenons par exemple la [[http://translate.sugarlabs.org/][liste des
+langues]] prises en compte dans le projet de la plateforme éducative
+[[https://www.sugarlabs.org][Sugar]] : ici, on sent que ce n'est pas le poids du marché qui a guidé
+la démarche, mais bien le besoin réel des locuteurs de ces langues,
+parfois négligées.
 
 Dans le secteur de l'édition, les projets de traduction autour des
 contenus libres sont une variante intéressante à plus d'un titre : on
 trouve ainsi des contenus sous licence libre, traduits par des experts
 d'une thématique ou d'un domaine et diffusés par des éditeurs en
 empruntant les circuits traditionnels de l'édition, voire un double
-circuit libre/commercial. Citons à cet égard la biographie de Richard
-Stallman (14), parue chez Eyrolles & Framabook. Il m'est arrivé
-également, à titre professionnel, de participer à des projets dérivés
-de contenus libres, avec des traductions éditoriales de manuels
-utilisateurs portant sur des logiciels libres, publiées de manière
-très classique, chez différents éditeurs.
+circuit libre/commercial.  Citons [[http://framabook.org/richard-stallman-et-la-revolution-du-logiciel-libre-2/][la biographie de Richard Stallman]],
+parue chez Eyrolles & Framabook.  Il m'est arrivé également, en tant
+que professionnel, de participer à des projets dérivés de contenus
+libres, avec des traductions éditoriales de manuels utilisateurs
+portant sur des logiciels libres, publiées de manière très classique,
+chez différents éditeurs.
 
-Ainsi, les contenus libres, relevant du secteur  non marchand, ont
-toute leur place dans la galaxie de la traduction/localisation. Les
-nombreux projets de traduction collaborative qui voient le jour en
-sont la preuve vivante : qu'il s'agisse de jeux, comme Wesnoth (15),
-de systèmes d'exploitation, comme Debian (16 et 17) ou de logiciels
-éducatifs, comme OOo4Kids (18). C'est, j'en suis convaincu, une
-"nouvelle frontière", dont l'exploration ouvre des perspectives
-passionnantes, ce qu'illustrent pour leur part des projets porteurs
-comme le Refugee Phrasebook (19), un projet né de l'urgence et
-palliant, sur le terrain, aux insuffisances institutionnelles,  ou le
-projet éditorial "Open Models", s'emparant de thématiques encore trop
-jeunes ou insuffisamment rentables pour être récupérées par les
-circuits marchands.
+Les contenus libres ont donc toute leur place dans la galaxie de la
+traduction et de la localisation.  Les nombreux projets de traduction
+collaborative qui voient le jour en sont la preuve : qu'il s'agisse de
+jeux, comme [[http://wiki.wesnoth.org/FrenchTranslation][Wesnoth]], de systèmes d'exploitation, comme [[https://www.debian.org/doc/manuals/intro-i18n/][Debian]] ou de
+logiciels éducatifs, comme [[http://educoo.org/TelechargerOOo4Kids.php][OOo4Kids]]. C'est, j'en suis convaincu, une «
+nouvelle frontière », dont l'exploration ouvre des perspectives
+passionnantes : prenez par exemple le [[http://www.refugeephrasebook.de][Refugee Phrasebook]], un projet
+d'aide à la traduction pour les réfugiés, né de l'urgence et palliant
+sur le terrain aux insuffisances institutionnelles, ou le projet
+éditorial [[http://openmodels.fr][Open Models]], s'emparant de thématiques encore trop jeunes ou
+insuffisamment rentables pour être récupérées par les circuits
+marchands.
 
-* En fin de compte, quel sens peut-on trouver à ce tableau et quels sont les enjeux de cette activité multilingue, si riche et multiforme ? 
+* Quels enjeux pour cette activité de traduction, si riche et multiforme ? 
 
-La situation qui est ainsi dépeinte est le corollaire de la
+La situation que nous avons décrite est le corollaire de la
 globalisation : un phénomène éminemment positif, dans lequel
-s'inscrivent les projets communautaires portés par la société civile
-et qui est révélateur de la volonté de ces acteurs de rester ancrés
-dans les communautés locales de leurs publics. Ces derniers restent en
-effet largement attachés à communiquer dans leurs propres
-langues. Cette exigence constitue un enjeu majeur pour les acteurs de
-la traduction, qu'il soient professionnels ou amateurs.
+s'inscrivent les projets communautaires portés par la société civile,
+phénomène révélateur de la volonté de ces acteurs de rester ancrés
+dans les communautés locales de leurs publics.  Ces derniers restent
+en effet largement attachés à communiquer dans leurs propres langues.
+Cette exigence constitue un enjeu majeur pour les acteurs de la
+traduction, qu'il soient professionnels ou amateurs.
 
-(12) http://translate.sugarlabs.org/
-(13) https://www.sugarlabs.org/
-(14) http://framabook.org/richard-stallman-et-la-revolution-du-logiciel-libre-2/
-(15) http://wiki.wesnoth.org/FrenchTranslation
-(16) https://www.debian.org/doc/manuals/intro-i18n/
-(17) https://lists.debian.org/i18n.html
-(18) http://educoo.org/TelechargerOOo4Kids.php
-(19) http://www.refugeephrasebook.de/
 
