@@ -44,14 +44,22 @@ cadre institutionnel, la base terminologique de la Communauté
 Européenne [[https://fr.wikipedia.org/wiki/Terminologie_interactive_pour_l%2527Europe][IATE]] ou, dans un cadre entrepreneurial, le plus récent
 [[https://fr.wikipedia.org/wiki/Linguee][Linguee]], un corpus textuel couvrant plusieurs paires de langues.
 
-On trouve bien entendu de bonnes choses et du moins bon. Dans cette
-deuxième catégorie, le traducteur « pro » inclura sagement [[https://fr.wikipedia.org/wiki/Google_Traduction][Google
-Translate]], qui n'est pas un outil au sens strict, et n'a donc pas à
-figurer dans la panoplie du traducteur professionnel, mais un moteur
-de traduction automatique, qui peut éventuellement dépanner l'amateur.
-En revanche, lorsque le « traducteur humain » touche à la traduction
-automatique, c'est le plus souvent pour faire de la post-édition de
-traductions machine, une tâche jugée ingrate et peu valorisante.
+L'état de l'art de la traduction collaborative emprunte aux serveurs
+de traductions, qui sont gérés par des systèmes de bases de données et
+présentent sur un navigateur Web les documents à traduire sous forme
+de textes segmentés dans des tableaux, les contenus étant versés dans
+des mémoires de traduction en réseau.  Citons, dans cette catégorie,
+les plateformes libres [[https://en.wikipedia.org/wiki/Pootle][Pootle]] et [[https://en.wikipedia.org/wiki/Translatewiki.net][translatewiki.net]] ou le service
+commercial [[https://en.wikipedia.org/wiki/Transifex][Transiflex]].
+
+Dans la catégorie des outils à éviter, le traducteur « pro » inclura
+sagement [[https://fr.wikipedia.org/wiki/Google_Traduction][Google Translate]], qui n'est pas un outil au sens strict, et
+n'a donc pas à figurer dans la panoplie du traducteur professionnel,
+mais un moteur de traduction automatique, qui peut éventuellement
+dépanner l'amateur.  Le plus souvent, lorsque le traducteur « humain »
+utilise la traduction automatique, c'est pour faire de la post-édition
+de traductions machine, une tâche jugée ingrate et peu valorisante.
+
 Autre changement récent, portant cette fois sur les thématiques : la
 traduction de mots-clés de moteurs de recherche, dans une optique SEO,
 ou [[https://fr.wikipedia.org/wiki/Optimisation_pour_les_moteurs_de_recherche][Search Engine Optimization]].  Enfin, parmi les outils qui apportent
@@ -89,59 +97,38 @@ professionnels et un obstacle de même nature pour les traducteurs
 occasionnels.  Ces derniers peuvent contourner l'obstacle en utilisant
 des outils libres et de qualité professionnelle comme [[https://fr.wikipedia.org/wiki/OmegaT][OmegaT]].
 
-* Est-ce que des outils ou des sites vous aident à faire de la traduction collaborative?
+* Quelles expériences de collaboration entre professionnels et amateurs ?
 
-L'état de l'art de la traduction collaborative emprunte aux serveurs
-de traductions, qui sont gérés par des systèmes de bases de données
-(MySQL par ex.) et présentent sur un navigateur Web les documents à
-traduire sous forme de textes segmentés dans des tableaux, les
-contenus étant versés dans des mémoires de traduction en
-réseau. Citons, dans cette catégorie, les plateformes libres Pootle
-(6) et Translatewiki.net (7) ou le service commercial Transiflex (8).
+Généralement, ces deux univers s'ignorent.  Toutefois, sous la
+pression de la concurrence et dans un objectif de rationalisation,
+certains traducteurs professionnels tentent ce s'inspirer des bonnes
+pratiques du génie logiciel, en particulier pour ce qui est de la «
+localisation logicielle » : utilisation d'outils collaboratifs,
+notamment de « forges logicielles », suivi de versions d'un document,
+virtualisation tous azimuts, recours aux standards documentaires et
+aux formats normalisés pour l'échanges de données textuelles et
+terminologiques - voir le TMX, [[http://www.xmlfacile.com/guide_xml/fichier_de_traduction_tmx_1.php5][Translation Memory Exchange]] pour les
+mémoires de traduction ou le TBX, [[http://www.tbxconvert.gevterm.net][Termbase eXchange]] pour les données
+terminologiques.  Dans une démarche analogue, le professionnel a tout
+intérêt à prendre en compte les trouvailles et solutions que les
+amateurs ont parfois mises au point pour leurs projets.
 
- (6) http://pootle.translatehouse.org/ et https://en.wikipedia.org/wiki/Pootle
- (7) https://translatewiki.net/ et https://en.wikipedia.org/wiki/Translatewiki.net
- (8) https://www.transifex.com/ et https://en.wikipedia.org/wiki/Transifex
- 
-* Est-ce que vous avez des expériences de collaboration « mixtes », entre professionnels et amateurs ?  Si oui, avez-vous des remarques ou des leçons à en tirer?
-
-Généralement, ce sont deux univers qui s'ignorent. On observe
-toutefois un effort, chez certains acteurs professionnels de la
-traduction, sous la pression de la concurrence et dans un objectif de
-rationalisation, de s'inspirer des bonnes pratiques du génie logiciel
-et en particulier de la branche de la "localisation logicielle" :
-utilisation d'outils collaboratifs, de type "forge logicielle"
-notamment, suivi de versions d'un document, virtualisation tous
-azimuts, recours aux standards documentaires pour l'échange de données
-(formats normalisés d'échanges de données textuelles, terminologiques,
-dérivées du XML, comme les  formats TMX (Translation Memory Exchange
-(9) pour les mémoires de traduction, ou TBX (Termbase eXchange) pour
-les données terminologiques (10). Dans une démarche analogue, le
-traducteur professionnel a tout intérêt à prendre en compte les
-trouvailles et solutions que les "amateurs" ont choisies et parfois
-mises au point pour leurs propres projets.
-
-Au chapitre de la collaboration entre professionnels et amateurs, la
-communauté, Global Voices (11) mérite une mention particulière. Elle
+Au chapitre de la collaboration entre professionnels et amateurs,
+[[https://globalvoices.org][Global Voices]] mérite une mention particulière.  Cette communauté
 s'appuie sur une excellente plateforme de traduction collaborative de
-type Wiki, accessible y compris pour des non professionnels de la
-traduction, tout en étant fonctionnelle et attrayante pour les
-traducteurs professionnels. Dans ce genre de projets communautaires,
-ce qui est valorisé, c'est la compétence pour une tâche donnée
-(rédaction journalistique, traduction ou autre) et la contribution
-concrète de chacun, quel que soit le métier ou le statut professionnel
-des différents contributeurs.
+type wiki, à la fois accessible aux non professionnels et attrayante
+et fonctionnelle pour les professionnels.  Dans ce genre de projets
+communautaires, ce qui est valorisé, c'est la compétence autour d'une
+tâche donnée (rédaction journalistique, traduction ou autre) et la
+contribution concrète de chacun, quel que soit le métier ou le statut
+des contributeurs.
 
 On observe également des rapprochements ponctuels, autour d'un projet,
-entre acteurs professionnels du secteur des langues, apportant leur
-expertise et leurs ressources, et acteurs représentant la "société
-civile", exprimant des besoins, notamment pour la traduction de
-contenus, comme on a pu le voir à Berlin, début 2016, dans le contexte
-de l'accueil des demandeurs d'asile arrivant en Allemagne.
-
- (9) http://www.xmlfacile.com/guide_xml/fichier_de_traduction_tmx_1.php5
-(10) http://www.tbxconvert.gevterm.net/
-(11) https://globalvoices.org
+entre les acteurs professionnels du secteur des langues, apportant
+leur expertise et leurs ressources, et les acteurs représentant la
+« société civile », exprimant des besoins, notamment pour la traduction
+de contenus, comme on a pu le voir à Berlin, début 2016, dans le
+contexte de l'accueil des demandeurs d'asile arrivant en Allemagne.
 
 * Est-ce que les contenus libres représentent un marché potentiel?  Ou bien ces contenus sont-ils toujours traduits par des amateurs ?
 
