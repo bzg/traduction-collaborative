@@ -2,10 +2,27 @@
 
 Interview de Samy Boutayeb
 
-L'auteur est traducteur professionnel. Il a été pendant plus de 10 ans enseignant-chercheur en sciences du langage et en français langue étrangère, dans différentes universités en France et en Allemagne. Il a traduit par la suite une vingtaine d'ouvrages, essentiellement dans le domaine informatique, pour le compte de maisons d'édition françaises. Exerçant en statut indépendant depuis plus de 15 ans, il pratique à titre professionnel l'activité de traducteur-réviseur. Une activité passionnante qu'il prolonge, dans un cadre collaboratif, pour le projet Global Voices, "une communauté sans frontières, essentiellement bénévole, de plus de 800 auteurs, analystes, spécialistes des médias en ligne et traducteurs". Convaincu de l'utilité sociale du partage des savoirs - une conviction renforcée par sa rencontre avec le mouvement du logiciel libre - il a participé à différents projets éducatifs et de développement logiciel, notamment dans le cadre du programme "One Laptop Per Child". Il peut être contacté à samy@langues-etcetera.fr.
+L'auteur est traducteur professionnel. Il a été pendant plus de 10 ans
+enseignant-chercheur en sciences du langage et en français langue
+étrangère, dans différentes universités en France et en Allemagne. Il
+a traduit par la suite une vingtaine d'ouvrages, essentiellement dans
+le domaine informatique, pour le compte de maisons d'édition
+françaises. Exerçant en statut indépendant depuis plus de 15 ans, il
+pratique à titre professionnel l'activité de traducteur-réviseur. Une
+activité passionnante qu'il prolonge, dans un cadre collaboratif, pour
+le projet Global Voices, "une communauté sans frontières,
+essentiellement bénévole, de plus de 800 auteurs, analystes,
+spécialistes des médias en ligne et traducteurs". Convaincu de
+l'utilité sociale du partage des savoirs - une conviction renforcée
+par sa rencontre avec le mouvement du logiciel libre - il a participé
+à différents projets éducatifs et de développement logiciel, notamment
+dans le cadre du programme "One Laptop Per Child". Il peut être
+contacté à samy@langues-etcetera.fr.
 
-
-Nous avons voulu comprendre l'impact du numérique sur le travail quotidien des traducteurs professionnels - le « numérique » désignant ici un ensemble de contenus, d'outils et de pratiques potentiellement collaboratives.
+Nous avons voulu comprendre l'impact du numérique sur le travail
+quotidien des traducteurs professionnels - le « numérique » désignant
+ici un ensemble de contenus, d'outils et de pratiques potentiellement
+collaboratives.
 
 * Comment Internet et les outils informatiques changent votre travail ?
 
@@ -59,7 +76,6 @@ sur le terrain aux insuffisances institutionnelles, ou le projet éditorial [[ht
 
 * Quels enjeux pour cette activité de traduction, si riche et multiforme ? 
 
-<<<<<<< HEAD
 La situation que nous avons décrite est le corollaire de la
 globalisation : un phénomène éminemment positif, en l'occurrence, et
 dans lequel s'inscrivent les projets communautaires portés par la
@@ -73,10 +89,3 @@ au sein de communautés globales. Il met l'accent sur l'émergence de
 besoins de communication élargis, qui constituent à leur tour un enjeu
 majeur pour les acteurs de la traduction, qu'il soient professionnels
 ou amateurs.
-
-
-=======
-La situation que nous avons décrite est le corollaire de la globalisation : un phénomène éminemment positif, en l'occurrence, et dans lequel s'inscrivent les projets communautaires portés par la société civile. Paradoxalement et malgré la multiplication des échanges qu'implique cette globalisation, on observe que les acteurs de cette société civile restent largement attachés à communiquer dans leur propre langue, qui marque leur ancrage au sein de leurs communautés locales respectives. Cet attachement à une communauté linguistique spécifique limite, de fait, les interactions plus larges au sein de communautés globales. Il met l'accent sur l'émergence de besoins de communication élargis, qui constituent à leur tour un enjeu majeur pour les acteurs de la traduction, qu'il soient professionnels ou amateurs.
->>>>>>> 227b152d3a8de385d7638472dc4b26278cefb416
-
-
