@@ -14,13 +14,13 @@ Liste des wikipédiens :
 
 Quelles langues, dans quel(s) but(s), à quelle fréquence, etc. ?
 
-FF : Je traduis (un petit peu) depuis les langues romanes (italien,
-piémontais) dans le but de rajouter des articles sur des événements
-intéressants non traités sur WP.
+FF : Je traduis un peu depuis les langues romanes, l'italien et le
+piémontais, dans le but d'ajouter des articles sur des événements
+intéressants non traités sur Wikipédia.
 
 CM : J'ai rarement traduit (ça me rappelle trop le boulot), mais je
 révise parfois des traductions, notamment depuis l'anglais, et plus
-rarement l'italien et le russe.
+rarement depuis l'italien et le russe.
 
 CH : La majorité des articles que j'ai créés (plus de 400) sont
 traduits depuis les wikipédias anglaise ou espagnole.  J'ai
@@ -32,29 +32,29 @@ vraiment, je m'inspire plutôt des articles, car les procédures en vue
 d'une traduction me semblent assez compliquées.
 
 DC : Je m'intéresse principalement à des biographies de scientifiques
-et à des distinctions, et je remarque que souvent les wikipédias
+et à des distinctions.  Je remarque que souvent les wikipédias
 anglophone et germanophone sont plus complètes.  Quand c'est possible,
-j'utilise le wiktionnaire, en complétant de temps en temps.
+j'utilise le wiktionnaire, en le complétant de temps en temps.
 
-BE: en fonction de sujets que j'aime bien. L'article n'existe pas sur
-fr mais sur en ou es : hop, je le traduis.
+BE: Je traduis en fonction des sujets que j'aime bien.  Si l'article
+n'existe pas sur la Wikipédia francophone mais qu'il est présent sur
+l'anglophone ou l'espagnole, hop, je le traduis.
 
-PM : Je traduis peu, mais ça m'arrive, principalement pour vivre ce
-que vivent ceux qui utilisent les outils de traduction. Je fais
-beaucoup de maintenance, et je trouve nécessaire de comprendre comment
-on peut commettre des erreurs en utilisant les outils existant.
+PM : Je traduis peu.  Je le fais principalement pour tester les outils
+de traduction. Je fais beaucoup de maintenance et je trouve important
+de comprendre comment on peut commettre des erreurs en utilisant les
+outils existant.
 
-MSG: Je traduit un peu d’articles, depuis l’anglais vers le français
-et l’espéranto. Pour les traductions vers l’espéranto, les
-propositions d’apertium sont souvent assez bonnes, et permettent de
-faire gagner pas mal de temps, même si ça n’est pas parfait (mais dans
-ce cas il n’y aurait même plus besoin de contribution humaine ^^). À
-noter qu’il existe d’ailleurs des traductions entièrement automatisé d
+MSG: Je traduis des articles de temps en temps depuis l’anglais vers
+le français et l’espéranto.  Pour les traductions vers l’espéranto,
+les propositions d’apertium FIXME sont souvent justes, et permettent
+de gagner du temps, même si ça n’est pas parfait... si ça l'était il
+n’y aurait même plus besoin de contribution humaine ^^).  À noter
+qu’il existe des traductions entièrement automatisés.
 
-J:Je traduis  la plupart du temps depuis l'anglais. Il m'est arrivé de
-travailler à partir du russe, mais cela reste rare. Mes sujets sont
-vastes (histoire, cuisine...). 
-
+J: Je traduis la plupart du temps depuis l'anglais.  Il m'est arrivé
+de travailler à partir du russe, mais cela reste rare.  Mes sujets
+sont vastes (histoire, cuisine...).
 
 * Comment choisissez-vous les articles (ou passages) que vous traduisez ?
 
@@ -172,13 +172,13 @@ DC :J'espère bien, question de cohérence !
 
 ED : C'est théoriquement possible.
 
-BE: Concernant ContentTranslation, non. Ou pas encore, mais c'est un
+BE: Concernant ContentTranslation, non.  Ou pas encore, mais c'est un
 sujet à long terme.
 
 * Comment sait-on si un article de la Wikipédia francophone a été traduit depuis un article d'une Wikipédia d'une autre langue ?
 
 FF : Pour la traduction entre les différents articles on utilise le
-modèle {{Traduction/Référence}}  qui indique la version d'origine et y
+modèle {{Traduction/Référence}} qui indique la version d'origine et y
 ajoute un lien, il y a aussi le modèle {{Traduit de}} qui est à placer
 en PDD (j'utilise que la première solution). Sur Wikinews, où il m'est
 également arrivé de traduire des articles, on préfère importer les
@@ -345,8 +345,3 @@ j'espère que l'utilisation de l'outil ne se répandra pas avant la
 publication d'une version plus propre.
 
 J: Pas que je sache.
-
-
-
-
-
