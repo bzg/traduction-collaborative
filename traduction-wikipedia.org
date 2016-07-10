@@ -277,7 +277,7 @@ ED : Je n'ai pas participé à ces débats.  J'ai l'impression que le
 fait de mentionner des sources en langue étrangère dérange. Encore,
 des sources anglaises, ça passe mieux.
 
-DC : Dans nos [[https://fr.wikipedia.org/wiki/Wikip%25C3%25A9dia:WikiPermanence][wikipermanences]], mon compère et moi insistons sur
+DC : Dans nos [[https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:WikiPermanence][wikipermanences]], mon compère et moi insistons sur
 l'existence des articles dans diverses langues et nous encourageons à
 y piocher des infos, surtout si elles sont sourcées. Si ces sources
 peuvent être remplacées ou complétées par des francophones, c'est du
