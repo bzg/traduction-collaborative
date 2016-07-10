@@ -12,336 +12,273 @@ Liste des wikipédiens :
 
 * Quelle est votre expérience générale de la traduction sur Wikipédia ?
 
-Quelles langues, dans quel(s) but(s), à quelle fréquence, etc. ?
+# Quelles langues, dans quel(s) but(s), à quelle fréquence, etc. ?
 
 FF : Je traduis un peu depuis les langues romanes, l'italien et le
 piémontais, dans le but d'ajouter des articles sur des événements
-intéressants non traités sur Wikipédia.
+intéressants non traités sur Wikipédia.  Je traduis par découverte
+fortuite via les articles sans interwikis des wikipédia sources ou
+via des messages en PDD.
+
+   NDE: Un lien « interwiki » est un lien interne vers un autre projet
+   de la fondation Wikimedia.  Une « PDD » est une « page de
+   discussion », accessible via l'onglet « Discussion » en haut à
+   gauche des articles : c'est là que les contributeurs des projets
+   débattent de questions sur l'édition des articles.
 
 CM : J'ai rarement traduit (ça me rappelle trop le boulot), mais je
 révise parfois des traductions, notamment depuis l'anglais, et plus
-rarement depuis l'italien et le russe.
+rarement depuis l'italien et le russe.  Les articles que je traduis
+entrent dans une thématique sur laquelle je travaille.
 
 CH : La majorité des articles que j'ai créés (plus de 400) sont
 traduits depuis les wikipédias anglaise ou espagnole.  J'ai
 ponctuellement traduit depuis l'italien et le néerlandais.
 
 ED : Je collabore dans le domaine de la psychanalyse, la littérature,
-l'histoire littéraire, le théâtre.  En général, je ne traduis pas
-vraiment, je m'inspire plutôt des articles, car les procédures en vue
-d'une traduction me semblent assez compliquées.
+l'histoire littéraire, le théâtre.  En général, je m'inspire des
+articles d'autres wikipédias mais je ne traduis pas vraiment, les
+procédures en vue d'une traduction me semblent assez compliquées.
+Quand je travaille sur un article en français, je vérifie ce que les
+collègues de langue anglaise en ont fait.
 
 DC : Je m'intéresse principalement à des biographies de scientifiques
 et à des distinctions.  Je remarque que souvent les wikipédias
 anglophone et germanophone sont plus complètes.  Quand c'est possible,
-j'utilise le wiktionnaire, en le complétant de temps en temps.
+j'utilise le wiktionnaire, en le complétant de temps en temps.  Quand
+je vois un lien rouge pour lequel je me sens capable d'apporter
+qqchose, je vérifie si le sujet existe dans d'autres WP, via Wikidata
+notamment. Et un peu aussi des liens qui me font plaisir, sur des
+auteurs ou des oeuvres que j'ai appréciés.
 
 BE: Je traduis en fonction des sujets que j'aime bien.  Si l'article
 n'existe pas sur la Wikipédia francophone mais qu'il est présent sur
 l'anglophone ou l'espagnole, hop, je le traduis.
 
 PM : Je traduis peu.  Je le fais principalement pour tester les outils
-de traduction. Je fais beaucoup de maintenance et je trouve important
+de traduction.  Je fais beaucoup de maintenance et je trouve important
 de comprendre comment on peut commettre des erreurs en utilisant les
-outils existant.
+outils existants.  Je pars en général de la wikipédia anglophone, ou
+bien des suggestions du bistro, ou d'un lien rouge s'il me parle.
+
+  NDE: Le « [[https://fr.wikipedia.org/wiki/Wikip%25C3%25A9dia:Le_Bistro][bistro]] » est un lieu d'échange ouvert entre contributeurs.
+  Les « liens rouges » sont des liens vers des articles qui n'existent
+  pas encore.
 
 MSG: Je traduis des articles de temps en temps depuis l’anglais vers
 le français et l’espéranto.  Pour les traductions vers l’espéranto,
-les propositions d’apertium FIXME sont souvent justes, et permettent
-de gagner du temps, même si ça n’est pas parfait... si ça l'était il
-n’y aurait même plus besoin de contribution humaine ^^).  À noter
-qu’il existe des traductions entièrement automatisés.
+les propositions d’[[https://www.apertium.org][Apertium]] sont souvent justes, et permettent de
+gagner du temps, même si ça n’est pas parfait.  Si ça l'était il n’y
+aurait même plus besoin de contribution humaine !  À noter qu’il
+existe des traductions entièrement automatisés.
 
 J: Je traduis la plupart du temps depuis l'anglais.  Il m'est arrivé
 de travailler à partir du russe, mais cela reste rare.  Mes sujets
-sont vastes (histoire, cuisine...).
+sont vastes : histoire, cuisine...  Je fais à l'envie, selon les sujet
+qui m’intéressent, ou que j'estime incomplets sur Wikipédia.
 
-* Comment choisissez-vous les articles (ou passages) que vous traduisez ?
-
-FF : Découverte fortuite via les articles sans interwikis des
-Wikipédia sources ou message en PDD.
-
-CH: Ils entrent dans une thématique sur laquelle je travaille. Je
-cherche les liens rouges dans les autres wikipédias.
-
-ED: Quand je travaille sur un article en français, je vérifie ce que
-les collègues de langue anglaise en ont fait.
-
-DC : Quand je vois un lien rouge pour lequel je me sens capable
-d'apporter qqchose, je vérifie si le sujet existe dans d'autres WP,
-via Wikidata notamment. Et un peu aussi des liens qui me font plaisir,
-sur des auteurs ou des oeuvres que j'ai appréciés.
-
-PM : depuis en, selon les suggestions du bistro, ou si un lien rouge
-me parle dans un article
-
-J:A l'envie, selon les sujet qui m’intéressent, ou que j'estime
-incomplets sur wp.
-
-* Comment le(s) traduisez-vous ?
+* Quels outils utilisez-vous pour traduire ?
 
 FF : J'utilise des dictionnaires, m'appuyant pour le piémontais sur la
-ressemblance avec l'italien et le français, je confronte également les
-sources avec si possible des versions francophones.
+ressemblance avec l'italien et le français.  Si possible je confronte
+également les sources avec des versions francophones.
 
-CH : pour l'anglais et l'espagnol, directement ou en utilisant le dico
-en ligne Wordreference pour les mots plus délicats. Je crée l'article
-sur wp:fr et traduis directement à la création (pas de brouillon hors
-ou dans wp).
+CH : Pour l'anglais et l'espagnol, je traduis directement ou j'utilise
+le dictionnaire en ligne [[http://www.wordreference.com/fr/][Wordreference]] pour les mots plus délicats. Je
+crée l'article sur wp:fr [NDE: la wikipédia francophone] et je traduis
+directement à la création, je ne fais pas de brouillon en dehors ou
+même dans Wikipédia.
 
-ED: Je suis trilingue français - portugais (Brésil) - anglais. A part
-cela, je peux lire et comprendre l'espagnol et l'italien. Rarement je
-consulte Google traduction pour voir ce qu'ils proposent. je consulte
-aussi rarement l'Oxford English Dictionary.
+ED: Je suis trilingue français - portugais (Brésil) - anglais.  À part
+cela, je peux lire et comprendre l'espagnol et l'italien.  Je consulte
+rarement [[http://translate.google.com][Google traduction]] pour voir ce qu'ils proposent.  Je consulte
+aussi l'[[http://www.oed.com][Oxford English Dictionary]], mais rarement.
 
 DC : Depuis que j'ai découvert l'outil d'assistance de traduction
-(Special:ContentTranslation), je l'utilise plus fréquemment, surtout
-depuis l'anglais et un peu l'allemand, rarement d'autres langues. En
-cas de lacune de ma part sur un mot ou une tournure, j'utilise wikt ou
-des dictionnaires en ligne. Souvent je traduis le RI et une partie du
-contenu, j'édite une version inachevée et je complète ma
-traduction. Je laisse parfois un paragraphe non traduit, en le
-signalant avec le modèle idoine, ou je signale mes doutes en faisant
-confiance à l'intelligence collective pour les pallier.
+([[https://fr.wikipedia.org/wiki/Sp%25C3%25A9cial:ContentTranslation][Special:ContentTranslation]]), je l'utilise plus fréquemment, surtout
+depuis l'anglais et un peu depuis l'allemand, rarement depuis d'autres
+langues.  Si j'ai une lacune sur un mot ou une tournure, j'utilise le
+wiktionnaire ou des dictionnaires en ligne.  Souvent je traduis le RI
+[Nde: Résumé introductif] et une partie du contenu, j'édite une
+version inachevée et je complète ma traduction. Je laisse parfois un
+paragraphe non traduit, en le signalant avec le modèle idoine, ou je
+signale mes doutes en faisant confiance à l'intelligence collective
+pour les pallier.
 
-BE: avec l'outil de traduction et, en complément, j'utilise les outils
-d'assistance et Linguee pour les expressions idiomatiques
+BE: Je traduis avec l'outil de traduction et, en complément, j'utilise
+les outils d'assistance et [[http://www.linguee.fr/][Linguee]] pour les expressions idiomatiques.
+Special:ContentTranslation présente une assistance à la traduction via
+Apertum et [[https://translate.yandex.com][Yandex]], la permanence des liens d'un article à l'autre, la
+transcription des modèles et plus encore !  À noter l'outil ne permet
+pas de faire de traduction collaborative.
+
+DC : Comme BE, Special:ContentTranslation est un outil certes
+imparfait mais vraiment pratique pour certaines parties (catégories,
+liens, modèles...) et qui s'améliore d'année en année.
 
 PM : Avec l'outil de traduction.
 
-J:Avec le wiktionnaire, yandex translate et un dictionnaire papier.
-
-* Est-ce qu'il existe des outils de traduction dédiés à l'édition de Wikipédia(s) ?
-
-FF : Je ne sais pas, j'ai déjà utilisé translate wiki pour corriger
-l'interface mais je n'utilise pas d'outil pour le contenu.
-
-CH : hormis l'outil de traduction interwiki développé par WM (que je
-n'utilise pas), je ne connais pas, non.
-
-ED : Pas que je sache.
-
-BE : Special:ContentTranslation. Cet outil n'a rien à voir avec la
-traduction de l'interface : c'est un outil dédié pour traduire des
-articles, qui présente une assistance à la traduction (Apertum et
-Yandex), la permanence des liens d'un article à l'autre, la
-transcription des modèles et plus ! 
-
-DC : Comme BE, un outil certes imparfait mais vraiment pratique pour
-certaines parties (catégories, liens, modèles...) et qui s'améliore
-d'année en année. 
-
-J: Je ne sais pas.
+J: J'utilise le wiktionnaire, yandex et un dictionnaire papier.
 
 * Est-ce que la Wikimedia Foundation (ou Wikimédia France) a une politique particulière vis-à-vis des questions de traduction ?
 
-CM : La Fondation s'intéresse de très près à la traduction et cherche
-à améliorer les outils. Wikimédia France ne s'est pas vraiment saisi
-de la question, bien qu'elle promeuve les wikis en langues de
-France. L'asso a été contactée par une plateforme de traduction
-(appartenant à une agence) pour que ses membres traduisent des
-extraits de l'encyclopédie sur sa plateforme, afin qu'ils puissent
-faire démonstration de leurs compétences en traduction.
+CM : La [[https://wikimediafoundation.org][Wikimedia Fondation]] s'intéresse de très près à la traduction
+et cherche à améliorer les outils.  [[http://www.wikimedia.fr][Wikimédia France]] ne s'est pas
+vraiment saisi de la question, bien qu'elle promeuve les wikis en
+langues de France.  L'association a été contactée par une plateforme
+de traduction appartenant à une agence pour que ses membres traduisent
+des extraits de l'encyclopédie sur sa plateforme, afin qu'ils puissent
+faire la démonstration de leurs compétences en traduction.
 
-CH : Le développement de l'outil de traduction interwiki tend à
-montrer que c'est un enjeu pour WM, mais je n'en sais pas plus.
-
-ED : Je crois que si, mais cela me semble compliqué, donc je le
-contourne.
-
-DC : le déploiement de Wikidata facilite les connexions entre les
+DC : le déploiement de [[https://www.wikidata.org/wiki/Wikidata:Main_Page][Wikidata]] facilite les connexions entre les
 wikis et les traductions. Je suppose donc que c'est une volonté
-délibérée, sans avoir cherché davantage si c'est une "politique".
-
-PM : il semble.que oui, pour augmenter la quantité d'article, l'impact
-sur la quantité étant sans doute un élément facile à évaluer.
-
-* Est-ce que ces outils sont sous licences libres ?
-
-FF : Je n'utilise pas d'outils autre que wiki.
-
-CH : idem.
-
-ED: Je ne sais pas.
-
-BE: Oui ! Apertum a la priorité sur Yandex quand il est disponible.
-
-DC :J'espère bien, question de cohérence !
-
-* Est-ce qu'ils permettent de faire de l'édition collaborative ?
-
-ED : C'est théoriquement possible.
-
-BE: Concernant ContentTranslation, non.  Ou pas encore, mais c'est un
-sujet à long terme.
+délibérée, sans savoir si c'est vraiment une « politique ».
 
 * Comment sait-on si un article de la Wikipédia francophone a été traduit depuis un article d'une Wikipédia d'une autre langue ?
 
-FF : Pour la traduction entre les différents articles on utilise le
-modèle {{Traduction/Référence}} qui indique la version d'origine et y
-ajoute un lien, il y a aussi le modèle {{Traduit de}} qui est à placer
-en PDD (j'utilise que la première solution). Sur Wikinews, où il m'est
-également arrivé de traduire des articles, on préfère importer les
-articles à traduire, comme ça le bon auteur est réellement crédité et
-retrouvable dans l'historique
+FF : Pour la traduction entre les différents articles, on utilise le
+modèle ={{Traduction/Référence}}= qui indique la version d'origine et y
+ajoute un lien, il y a aussi le modèle ={{Traduit de}}= qui est à placer
+en PDD (je n'utilise que la première solution).  Sur [[https://fr.wikinews.org/wiki/Accueil][Wikinews]], où il
+m'est également arrivé de traduire des articles, on préfère importer
+les articles à traduire, comme ça le bon auteur est réellement crédité
+et on peut le retrouver dans l'historique.
 
-CH : bien expliqué par FF.
-
-ED : Je ne sais pas. Je l'indique quand la page de Wikipedia me
-demande de préciser les modifications que j'ai apportées à l'article.
-
-DC : idem FF. J'avoue ne pas l'avoir fait (par ignorance) durant mes
-premières années...
+  NDE: Les « modèles » (ou /templates/ en anglais), sont des éléments
+  qu'on peut ajouter au contenu brut d'une page wikipédia, et dont la
+  syntaxe permet de générer un affichage particulier.  Par exemple
+  ={{refnec}}= est un modèle souvent utilisé pour indiquer qu'une
+  référence est nécessaire ([[https://fr.wikipedia.org/wiki/Mod%25C3%25A8le:R%25C3%25A9f%25C3%25A9rence_n%25C3%25A9cessaire][plus de détails sur refnec]]).
 
 PM : Jusqu'il y a peu, on le savait grâce au modèle
-{{Traduction/Référence}}, mais on m'a signalé que ce n'est plus
-obligatoire. Comme c'était compliqué pour l'outil de traduction
-d'apposer automatiquement le modèle, les légistes de la fondation ont
-fini par trouver que finalement un simple lien dans le commentaire de
-diff de l'article traduit vers l'article source suffit. Lorsque j'ai
-constaté que les nouvelles traductions oubliaient souvent le crédit
-d'auteurs, j'ai voulu modifier la page d'aide sur le sujet pour
-csigaler que c'est obligatoire, mais j'ai été réverté : ce n'est donc
-pas obligatoire. Il faut donc consulter la première ligne de
-l'historique d'un article pour le savoir. Auparavant, c'était souvent
-omis, et il n'y avait même pas la première ligne de l'historique pour
-le savoir.
-
-J: Avec l'ajout du modèle {{Traduction/Référence}}.
+={{Traduction/Référence}}=, mais on m'a signalé que ce n'est plus
+obligatoire.  C'était compliqué pour l'outil de traduction d'apposer
+automatiquement le modèle, alors les légistes de la fondation ont fini
+par trouver qu'il suffit d'ajouter un simple lien dans le commentaire
+des modifications de l'article traduit vers l'article source.  Lorsque
+j'ai constaté que les nouvelles traductions oubliaient souvent le
+crédit d'auteurs, j'ai voulu modifier la page d'aide sur le sujet pour
+signaler que c'est obligatoire, mais j'ai été réverté [NDE: un autre
+contributeur a annulé la contribution] : ce n'est donc pas
+obligatoire.  Il faut consulter la première ligne de l'historique d'un
+article pour le savoir.  Auparavant, c'était souvent omis, et il n'y
+avait même pas la première ligne de l'historique pour le savoir.
 
 * Est-ce que vous vous organisez en ligne avec d'autres pour travailler sur des traductions avant de les poster sur Wikipédia ?
 
-FF : Non, les sujets que je trouve sont trop spécifiques, mais j'en
-discute une fois traduit pour que d'autres le complète/corrige s'ils
-le souhaitent.
+FF : Non, les sujets qui m'intéressent sont trop spécifiques, mais
+j'en discute une fois traduit pour que d'autres les
+complètent/corrigent s'ils le souhaitent.
 
-CH : j'ai - rarement : deux fois, de mémoire - créé une simple ébauche
-et appelé "à l'aide" sur un projet lié ou un utilisateur en
+CH : J'ai - rarement : deux fois, de mémoire - créé une simple ébauche
+puis sollicité de l'aide sur un projet lié ou à un utilisateur en
 particulier, pour profiter des spécialisations de ces membres et afin
-d'être plus sûr dans le choix de certains mots. L'ébauche ne contenant
-pas encore la traduction, j'espère que ce commentaire reste pertinent
-vis-à-vis de la question ^^
+d'être plus sûr dans le choix de certains mots.
 
-ED: Non. J'ai l'impression que ceux qui travaillent sur un même
-article que moi ne mapitrisent pas l'anglais ou n'ont pas l'habitude
-de consulter les pages en anglais.
+ED: Non.  J'ai l'impression que ceux qui travaillent sur un même
+article que moi ne maîtrisent pas l'anglais ou n'ont pas l'habitude de
+consulter les pages en anglais.
 
-Dc : non. à part un essai sur Commons pas vraiment probant ; et je me
-souviens de ma participation à "24h pour un article" où le but était
-de traduire à plusieurs des articles jugés de qualité en anglais, mais
-un peu trop chacun-dans-son-coin. Quand il y a eu discussion, c'est
-sur une traduction déjà publiée, qu'elle soit achevée ou non
-(concours, par ex).
+Dc : Non.  À part un essai sur [[https://commons.wikimedia.org/wiki/Accueil][Wikimedia Commons]] peu probant.  Et je
+me souviens de ma participation au défi « 24h pour un article » : le
+but était de traduire à plusieurs des articles jugés de qualité en
+anglais, mais c'était un peu trop chacun-dans-son-coin.  Quand il y a
+une discussion, c'est sur une traduction déjà publiée, qu'elle soit
+achevée ou non.
 
-BE : absolument pas.
-
-PM : Non
-
-J:Non
-
-* Si oui, quels outils utilisez-vous pour ce travail offline ?
+BE, PM, J : Non.
 
 * Est-ce qu'il vous manque des outils ?  Si oui lesquels ?
 
-FF : pas pour mon usage.
-
 CH : Oui. Idéalement, il faudrait quelque chose comme ce site
-http://mymemory.translated.net/ , mais avec un moteur de recherche sur
+http://mymemory.translated.net, mais avec un moteur de recherche sur
 Wikipédia.
 
-ED : Je ne saurai pas dire. Quelque chose de plsu perfectionné que
-Google Traduction, peut-être. 
-
-BE: Il maque d'avantage de prise en charge du français sur Apertium :
+BE: Il manque d'avantage de prise en charge du français sur Apertium :
 la qualité est au top, mais il n'y a que deux paires de langues prises
 en charge (es->fr, ca->fr).
-
-PM : idem BE, et surtout une version plus au point que la version beta
 
 * Est-ce que vous pensez que l'ajout de contenu par traduction sur Wikipédia renforce la qualité des contenus ?
 
 FF : J'ai traduit [[Giuseppe Pognante]], un italien né en France, depuis
-le piémontais et on obtient un contenu qui mentionne pour la première
-fois le sentiment anti-italien résultant de l'assassinat de Sadi
-Carnot. Dans les sources francophones c'est assez rare de le trouver.
+le piémontais et ça donne un contenu qui mentionne pour la première
+fois le sentiment anti-italien à la suite de l'assassinat de Sadi
+Carnot.  Dans les sources francophones c'est assez rare de le trouver.
 
 CH : Si l'article d'origine est bien développé et sourcé, on bénéficie
 de ces sources auxquelles on n'aurait peut-être pas eu accès (ou moins
 facilement).
 
+BE: Comme CH.  Et cela permet d'accélérer « [[https://fr.wikipedia.org/wiki/Wikip%25C3%25A9dia:Effet_piranha][l'effet piranha]] » en ayant
+une base construite à proposer aux potentiels contributeurs.
+
 ED: Sans doute. Souvent, il me faut aussi entrer dans la page anglaise
 pour la compléter.
 
-DC : Oui. Il m'arrive régulièrement que l'article WPfr final soit plus
-riche que les originaux, en prenant des bouts de WPen et WPde, voire
-d'autres. Et on bénéficie du travail de sourçage d'autres wikimédiens,
-je trouve cela précieux.
+DC : Oui. Il m'arrive régulièrement que l'article final de la
+wikipédia francophone soit plus riche que les originaux, en prenant
+des bouts de WPen [la wikipédia anglophone] et WPde [la wikipédia
+germanophone], voire d'autres. Et on bénéficie du travail de sourçage
+d'autres wikimédiens, je trouve cela précieux.
 
-BE: comme CH. Et cela permet d'accélérer l'effet piranha en ayant une
-base construite à proposer aux potentiels contributeurs.
-
-PM : Oui, dans une certaine mesure. Mais il y a un défaut : on publie
+PM : Oui, dans une certaine mesure.  Mais il y a un défaut : on publie
 sans vérifier les sources mentionnées. Je pense que si un contributeur
 affirmait faire la même chose à partir de sources en français, on lui
-reprocherait son manque de sérieux...  C'est pour ça qu'à mon qu'il
-faut absolument signaler que c'est une traduction.
+reprocherait son manque de sérieux...  C'est pour ça qu'il faut à mon
+avis absolument signaler que c'est une traduction.
 
-CM : Sur le fond, sans doute, tant que l'article d'origine est
-bon. Sur la forme, non : dans mon expérience (je ne me prononce
-évidemment pas sur les personnes ici, je ne pense pas avoir eu
-l'occasion de relire leur travail), les articles traduits comportent
-souvent des faux sens, des contresens, des anglicismes (ou autres),
-voire des phrases incompréhensibles et demandent un gros travail de
-révision (qui n'est pas toujours fait), soit que le traducteur se soit
-trop reposé sur la traduction automatique, soit qu'il ne maîtrise pas
-suffisamment la langue de départ ou d'arrivée, soit qu'il connaisse
-mal le domaine... Je prêche pour ma paroisse, mais la traduction,
-c'est un métier.
+CM : Sur le fond, sans doute, tant que l'article d'origine est bon.
+Sur la forme, non : dans mon expérience, les articles traduits
+comportent souvent des faux sens, des contresens, des anglicismes (ou
+autres), voire des phrases incompréhensibles et demandent un gros
+travail de révision (qui n'est pas toujours fait), soit que le
+traducteur se soit trop reposé sur la traduction automatique, soit
+qu'il ne maîtrise pas suffisamment la langue de départ ou d'arrivée,
+soit qu'il connaisse mal le domaine... Je prêche pour ma paroisse,
+mais la traduction, c'est un métier.
 
-J:Bien sur, on apporte un point de vue différent sur le contenu. On
+J: Bien sûr, on apporte un point de vue différent sur le contenu. On
 évite le "franco-centrage".
 
-* Est-ce qu'il y a des débats internes (à Wikimédia ou dans les communautés wikipédias) sur l'utilité des traductions ?
+* Est-ce qu'il y a des débats internes sur l'utilité des traductions ?
 
-CM : On en a pas mal discuté avec Don Camillo, mais je n'ai pas
-l'impression que ça fasse débat ailleurs dans la communauté. J'ai
+CM : On en a pas mal discuté avec [[https://fr.wikipedia.org/wiki/Utilisateur:DonCamillo][Don Camillo]], mais je n'ai pas
+l'impression que cela fasse débat ailleurs dans la communauté. J'ai
 l'impression d'être une des rares personnes à ne pas être hyper
 favorable à la traduction, pour des raisons pragmatiques (c'est
 souvent très mal fait) et idéologiques (à mon sens ça nuit à la
 diversité des points de vue, et les sources sont nécessairement en
 langues étrangères).
 
-FF : Je n'ai pas participé à des débats sur le sujet.
-
 CH : Je suis moi aussi sensible à la diversité des points de vue, mais
-dans le domaine de ce que je traduis, je n'ai pas fait face à ces cas
-litigieux, et de toutes façons, la traduction à partir d'autres
-langues "occidentales" n'offre pas une vraie alternative. Il y a eu
+dans le domaine de ce que je traduis, je n'ai pas eu à faire face à
+des cas litigieux ; de toutes façons, la traduction à partir d'autres
+langues « occidentales » n'offre pas une vraie alternative.  Il y a eu
 des débats comme celui évoqué par CM, en effet.
 
-ED : Je n'ai pas participé à ces débats. J'ai l'impression que le fait
-de mentionner des sources en langue étrangère dérange. Encore, des
-sources anglaises, ça passe mieux.
+ED : Je n'ai pas participé à ces débats.  J'ai l'impression que le
+fait de mentionner des sources en langue étrangère dérange. Encore,
+des sources anglaises, ça passe mieux.
 
-DC : dans nos wikipermanences, mon compère et moi insistons sur
-l'existence des articles dans diverses langues et de ne pas hésiter à
+DC : Dans nos [[https://fr.wikipedia.org/wiki/Wikip%25C3%25A9dia:WikiPermanence][wikipermanences]], mon compère et moi insistons sur
+l'existence des articles dans diverses langues et nous encourageons à
 y piocher des infos, surtout si elles sont sourcées. Si ces sources
 peuvent être remplacées ou complétées par des francophones, c'est du
 bonus.
 
-BE: idem CM et DC, bien qu'il y ai peu de débats. J'apprécie de
-pouvoir faire confiance à un contributeur qui participe dans ma
+BE: Pareil que CM et DC, bien qu'il y ait peu de débats.  J'apprécie
+de pouvoir faire confiance à un contributeur qui participe dans ma
 langue, et je fais de même pour un contributeur qui contribue dans une
-autre langue. Il n'y a pas pour moi de contre-indication à traduire
-(et va trouver une source en français pour un village de Corée ou une
-locomotive mexicaine...). Dans les permanences grand public, il y a
+autre langue.  Il n'y a pas pour moi de contre-indication à traduire.
+Et allez trouver une source en français pour un village de Corée ou
+une locomotive mexicaine ! Dans les permanences grand public, il y a
 une forte demande de personnes souhaitant faire des traductions.
 
-PM : Non. Sur la qualtié, oui : les traductions automatiques sont
-détestées. Et j'ajoute que la version beta fait discuter les
-malheureux membres du projet maintenance dont je fais partie : l'ouitl
-de traduction a des défauts, il génère du code inutile, et donc
-j'espère que l'utilisation de l'outil ne se répandra pas avant la
-publication d'une version plus propre.
+PM : Sur la qualité, oui : les traductions automatiques sont
+détestées.  Mais sinon, non.  Et j'ajoute que la version beta de
+l'outil de traduction fait discuter les malheureux membres du projet
+[[https://fr.wikipedia.org/wiki/Projet:Maintenance][Maintenance]] dont je fais partie : l'outil de traduction a des défauts,
+il génère du code inutile, et donc j'espère que l'utilisation de
+l'outil ne se répandra pas avant la publication d'une version plus
+propre.
 
-J: Pas que je sache.
