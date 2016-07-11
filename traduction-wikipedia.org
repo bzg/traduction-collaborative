@@ -85,12 +85,12 @@ le français et l’espéranto.  Pour les traductions vers l’espéranto,
 les propositions d’[[https://www.apertium.org][Apertium]] sont souvent justes, et permettent de
 gagner du temps, même si ça n’est pas parfait.  Si ça l'était il n’y
 aurait même plus besoin de contribution humaine !  À noter qu’il
-existe des traductions entièrement automatisés.
+existe des traductions entièrement automatisées.
 
 J : Je traduis la plupart du temps depuis l'anglais.  Il m'est arrivé
 de travailler à partir du russe, mais cela reste rare.  Mes sujets
-sont vastes : histoire, cuisine...  Je fais à l'envie, selon les sujet
-qui m’intéressent, ou que j'estime incomplets sur Wikipédia.
+sont vastes : histoire, cuisine...  Je fais à l'envie, selon les
+sujets qui m’intéressent, ou que j'estime incomplets sur Wikipédia.
 
 * Quels outils utilisez-vous pour traduire ?
 
@@ -145,7 +145,7 @@ de traduction appartenant à une agence pour que ses membres traduisent
 des extraits de l'encyclopédie sur sa plateforme, afin qu'ils puissent
 faire la démonstration de leurs compétences en traduction.
 
-DC : le déploiement de [[https://www.wikidata.org/wiki/Wikidata:Main_Page][Wikidata]] facilite les connexions entre les
+DC : Le déploiement de [[https://www.wikidata.org/wiki/Wikidata:Main_Page][Wikidata]] facilite les connexions entre les
 wikis et les traductions. Je suppose donc que c'est une volonté
 délibérée, sans savoir si c'est vraiment une « politique ».
 
@@ -184,7 +184,7 @@ avait même pas la première ligne de l'historique pour le savoir.
 * Est-ce que vous vous organisez en ligne avec d'autres pour travailler sur des traductions avant de les poster sur Wikipédia ?
 
 FF : Non, les sujets qui m'intéressent sont trop spécifiques, mais
-j'en discute une fois traduit pour que d'autres les
+j'en discute une fois traduits pour que d'autres les
 complètent/corrigent s'ils le souhaitent.
 
 CH : J'ai - rarement : deux fois, de mémoire - créé une simple ébauche
@@ -211,16 +211,17 @@ CH : Oui. Idéalement, il faudrait quelque chose comme ce site
 http://mymemory.translated.net, mais avec un moteur de recherche sur
 Wikipédia.
 
-BE : Il manque d'avantage de prise en charge du français sur
-Apertium : la qualité est au top, mais il n'y a que deux paires de
-langues prises en charge (es->fr, ca->fr).
+BE : Il manque davantage de prise en charge du français sur Apertium :
+la qualité est au top, mais il n'y a que deux paires de langues prises
+en charge (es->fr, ca->fr).
 
 * Est-ce que vous pensez que l'ajout de contenu par traduction sur Wikipédia renforce la qualité des contenus ?
 
-FF : J'ai traduit [[Giuseppe Pognante]], un italien né en France, depuis
-le piémontais et ça donne un contenu qui mentionne pour la première
-fois le sentiment anti-italien à la suite de l'assassinat de Sadi
-Carnot.  Dans les sources francophones c'est assez rare de le trouver.
+FF : J'ai traduit depuis le piémontais l'article [[Giuseppe Pognante]],
+portant sur un italien né en France, et ça donne un contenu qui
+mentionne pour la première fois le sentiment anti-italien à la suite
+de l'assassinat de Sadi Carnot.  Dans les sources francophones c'est
+assez rare de le trouver.
 
 CH : Si l'article d'origine est bien développé et sourcé, on bénéficie
 de ces sources auxquelles on n'aurait peut-être pas eu accès (ou moins
