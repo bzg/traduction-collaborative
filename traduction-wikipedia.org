@@ -10,8 +10,8 @@ contenu.
 
 Voici la liste des wikipédiens qui ont eu la gentillesse de répondre :
 
-- [[https://fr.wikipedia.org/wiki/Utilisateur:Trizek][Benoît Evellin]] (en tant bénévole et non en tant que salarié de la
-  Wikimedia Foundation)
+- [[https://fr.wikipedia.org/wiki/Utilisateur:Trizek][Benoît Evellin]] (en tant bénévole et non en tant que prestataire de
+  la Wikimedia Foundation)
 - [[https://fr.wikipedia.org/wiki/Utilisateur:Daehan][C. Hernandez]] 
 - [[https://fr.wikipedia.org/wiki/Utilisateur:Matou91][Charlotte Matou]] 
 - [[https://fr.wikipedia.org/wiki/Utilisateur:Cbyd][Dominique]]
