@@ -87,6 +87,10 @@ gagner du temps, même si ça n’est pas parfait.  Si ça l'était il n’y
 aurait même plus besoin de contribution humaine !  À noter qu’il
 existe des traductions entièrement automatisées.
 
+  NDE: Les suggestions d'Apertium sont proposées par l'outil de
+  traduction développé par la Wikimedia Foundation.  Cet outil permet
+  de faire de la traduction sans passer par le wikicode.
+
 J : Je traduis la plupart du temps depuis l'anglais.  Il m'est arrivé
 de travailler à partir du russe, mais cela reste rare.  Mes sujets
 sont vastes : histoire, cuisine...  Je fais à l'envie, selon les
