@@ -1,9 +1,14 @@
 #+title: Traduction Collaborative
 
 Mise en forme des retours collectés autour de la traduction
+collaborative :
 
-- chez [[https://mensuel.framapad.org/p/traduction-libre-et-ouverte][Framasoft]]
-- sur [[https://mensuel.framapad.org/p/wikipedia-traduction][Wikipédia]]
-- et auprès des traducteurs professionnels
+- chez Framasoft
+- sur Wikipédia
+- auprès des traducteurs professionnels
+- auprès des traducteurs de la distribution Linux Fedora (en cours)
+- auprès des traducteurs du projet GNOME (en cours)
+
+Toutes les interviews sont sous licence [[https://creativecommons.org/licenses/by-sa/4.0/][Creative Commons BY-SA 4.0]].
 
 
