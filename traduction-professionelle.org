@@ -1,6 +1,8 @@
 #+title: Traduction professionnelle et collaborative
 
-Interview de Samy Boutayeb
+Interview de *Samy Boutayeb*
+
+L'interview est lisible dans sa version finalisée sur [[http://www.withoutmodel.com/fr/samy-boutayeb/dans-la-traduction-la-collaboration-est-devenue-la-regle/][withoutmodel.com]]
 
 L'auteur est traducteur professionnel. Il a été pendant plus de 10 ans
 enseignant-chercheur en sciences du langage et en français langue
