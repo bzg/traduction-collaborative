@@ -1,5 +1,7 @@
 #+TITLE: Interview de Jean-Baptiste Holcroft (GNU/Linux Fedora)
 
+Cette interview est sous licence [[https://creativecommons.org/licenses/by-sa/][CC by-sa 4.0]].
+
 * Bonjour Jean-Baptiste. Comment te présenter ? Tu es développeur et traducteur pour des distributions GNU/Linux ?
 
 Je suis principalement utilisateur de Linux, traducteur de quelques
