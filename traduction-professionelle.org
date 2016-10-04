@@ -39,7 +39,7 @@ Nous travaillons aujourd'hui en mobilité, en réseau globalisé et à flux tend
 
 La recherche documentaire et terminologique multilingue, quant à elle, a bénéficié d'Internet dès les débuts, en s'appuyant sur toutes les ressources en ligne possibles et imaginables : corpus textuels multilingues, bases de données terminologiques en ligne, documents de référence pour tous les besoins du professionnel.  Exemples : dans un cadre institutionnel, la base terminologique de la Communauté Européenne [[https://fr.wikipedia.org/wiki/Terminologie_interactive_pour_l%2527Europe][IATE]] ou, dans un cadre entrepreneurial, le plus récent [[https://fr.wikipedia.org/wiki/Linguee][Linguee]], un corpus textuel couvrant plusieurs paires de langues.
 
-L'état de l'art de la traduction collaborative emprunte aux serveurs de traductions, qui sont gérés par des systèmes de bases de données et présentent sur un navigateur Web les documents à traduire sous forme de textes segmentés dans des tableaux, les contenus étant versés dans les mémoires de traduction en réseau.  Citons, dans cette catégorie, les plateformes libres [[https://en.wikipedia.org/wiki/Pootle][Pootle]] et [[https://en.wikipedia.org/wiki/Translatewiki.net][translatewiki.net]] ou le service commercial [[https://en.wikipedia.org/wiki/Transifex][Transiflex]].
+L'état de l'art de la traduction collaborative emprunte aux serveurs de traductions, qui sont gérés par des systèmes de bases de données et présentent sur un navigateur Web les documents à traduire sous forme de textes segmentés dans des tableaux, les contenus étant versés dans les mémoires de traduction en réseau.  Citons, dans cette catégorie, les plateformes libres [[https://en.wikipedia.org/wiki/Pootle][Pootle]] et [[https://en.wikipedia.org/wiki/Translatewiki.net][translatewiki.net]] ou le service commercial [[https://en.wikipedia.org/wiki/Transifex][Transifex]].
 
 Dans la catégorie des outils à éviter, le traducteur « pro » inclura sagement [[https://fr.wikipedia.org/wiki/Google_Traduction][Google Translate]], qui n'est pas un outil au sens strict, et n'a donc pas à figurer dans la panoplie du traducteur professionnel, mais un moteur de traduction automatique, qui peut éventuellement dépanner l'amateur.  Le plus souvent, lorsque le traducteur « humain » utilise la traduction automatique, c'est pour faire de la post-édition de traductions machine, une tâche jugée ingrate et peu valorisante.
 
@@ -89,5 +89,5 @@ communautés locales respectives. Cet attachement à une communauté
 linguistique spécifique limite, de fait, les interactions plus larges
 au sein de communautés globales. Il met l'accent sur l'émergence de
 besoins de communication élargis, qui constituent à leur tour un enjeu
-majeur pour les acteurs de la traduction, qu'il soient professionnels
+majeur pour les acteurs de la traduction, qu'ils soient professionnels
 ou amateurs.
