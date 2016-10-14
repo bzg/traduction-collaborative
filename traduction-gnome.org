@@ -1,0 +1,19 @@
+#+title: Interview d'Alexandre Franke, coordinateur de l'équipe de traduction du projet Gnome
+
+Cette interview est sous licence [[https://creativecommons.org/licenses/by-sa/][CC by-sa 4.0]].
+
+* Bonjour Alexandre.  Peux-tu nous présenter le projet Gnome en quelques mots ?
+
+* Tu es coordinateur de la traduction de Gnome vers le français.  En quoi consiste la traduction pour Gnome, et en quoi consiste ton travail de coordination ?
+
+* Est-ce que Gnome travail de façon différente de KDE ?
+
+* Est-ce que vous avez des échanges réguliers avec les développeurs de Gnome ?  Est-ce que les traducteurs débordent parfois de leur cadre et interviennent parfois sur le texte original, sa présentation, voire même l'ergonomie ?
+
+* Qu'est-ce qui t'a amené à faire cela ?  Qu'est-ce qui te pousse à continuer ?
+
+* Est-ce que vous êtes tous volontaires, ou bien avez-vous recours à des professionnels ?
+
+* Est-ce que c’est une expérience que tu arrives à valoriser ailleurs que dans « le libre » ?
+
+* Un dernier mot pour encourager des futurs contributeurs ?
