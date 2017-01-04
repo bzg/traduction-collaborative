@@ -122,7 +122,7 @@ maîtrisent le mieux la langue cible, plutôt que ceux qui maîtrisent
 surtout la langue source.  Avec l'expérience, il nous semble
 indispensable que le rendu final soit contrôlé par un francophone
 natif lorsqu'on traduit vers le français, par un anglophone natif
-lorsqu'on traduit vers l'anglais, etc.  Les cas de vrais bilinguisme
+lorsqu'on traduit vers l'anglais, etc.  Les cas de vrai bilinguisme
 sont assez rares.  Il faut que le lecteur oublie qu'il s'agit d'une
 traduction !
 
