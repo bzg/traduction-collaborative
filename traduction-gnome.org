@@ -8,7 +8,7 @@ GNOME est avant tout un environnement de bureau pour les plate-formes Unix. Son 
 
 C'est également un ensemble de technologies qui sont développées pour cet environnement mais sont utilisées même en-dehors.
 
-Enfin, c'est une communauté de personnes qui se soucient de fournir au plus grand nombre un accès à la technilogie dans le respect des valeurs du logiciel libre, avec une attention particulière sur des sujets comme la sécurité, le respect de la vie privée, l'éducation, ou l'accès pour les personnes en situation de handicap.
+Enfin, c'est une communauté de personnes qui se soucient de fournir au plus grand nombre un accès à la technologie dans le respect des valeurs du logiciel libre, avec une attention particulière sur des sujets comme la sécurité, le respect de la vie privée, l'éducation, ou l'accès pour les personnes en situation de handicap.
 
 * Tu es coordinateur de la traduction de GNOME vers le français.  En quoi consiste la traduction pour GNOME, et en quoi consiste ton travail de coordination ?
 
@@ -36,7 +36,7 @@ Les traducteurs sont parmi les premiers utilisateurs des nouvelles versions des 
 
 * Qu'est-ce qui t'a amené à faire cela ?  Qu'est-ce qui te pousse à continuer ?
 
-J'étais étudiant en informatique en 2004 et j'ai découvert dans ce cadre le système d'exploitation linux et le logiciel libre. Après l'avoir utilisé et appris comment il était écrit, j'ai voulu participer mais je ne pensais pas encore avoir le niveau pour toucher au code et comme j'étais bon en anglais, la traduction était une évidence pour moi. J'ai commencé par Ubuntu et comme une grande partie de ce que j'utilisais sous Ubuntu venait de GNOME, je suis remonté en amont pour que mes traductions profitent à tous les utilisateurs de cet environnement, qu'ils soient sur Ubuntu ou une autre distribution.
+J'étais étudiant en informatique en 2004 et j'ai découvert dans ce cadre le système d'exploitation Linux et le logiciel libre. Après l'avoir utilisé et appris comment il était écrit, j'ai voulu participer mais je ne pensais pas encore avoir le niveau pour toucher au code et comme j'étais bon en anglais, la traduction était une évidence pour moi. J'ai commencé par Ubuntu et comme une grande partie de ce que j'utilisais sous Ubuntu venait de GNOME, je suis remonté en amont pour que mes traductions profitent à tous les utilisateurs de cet environnement, qu'ils soient sur Ubuntu ou une autre distribution.
 
 Depuis, j'ai acquis d'autres responsabilités au sein du projet et mon implication fait de la communauté GNOME une famille pour moi.
 
