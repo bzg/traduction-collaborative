@@ -6,9 +6,7 @@ collaborative :
 - chez Framasoft
 - sur Wikipédia
 - auprès des traducteurs professionnels
-- auprès des traducteurs de la distribution Linux Fedora (en cours)
-- auprès des traducteurs du projet GNOME (en cours)
+- auprès des traducteurs de la distribution Linux Fedora
+- auprès des traducteurs du projet GNOME
 
 Toutes les interviews sont sous licence [[https://creativecommons.org/licenses/by-sa/4.0/][Creative Commons BY-SA 4.0]].
-
-
