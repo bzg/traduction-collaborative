@@ -12,7 +12,9 @@ Enfin, c'est une communauté de personnes qui se soucient de fournir au plus gra
 
 * Tu es coordinateur de la traduction de GNOME vers le français.  En quoi consiste la traduction pour GNOME, et en quoi consiste ton travail de coordination ?
 
-GNOME se découpe en plusieurs « lots » à traduire :
+En fait on devrait plutôt parler de régionalisation (/localisation/ en anglais) que de traduction, parce que le travail va au-delà. Il s'agit d'adapter au contexte local en remplaçant les unités, les noms de villes, les références culturelles…
+
+Ce travail dans GNOME se découpe en plusieurs « lots » :
 
  * le cœur, constitué de briques logiciels sans lesquelles l'environnement ne fonctionnerait pas (comme gnome-control-center qui apparait à l'utilisateur francophone sous le nom « Paramètres »)
  * les applications qui apportent des fonctionnalités, comme Météo, Horloges, Polari (client IRC)…
