@@ -1,12 +1,32 @@
 #+title: Traduction Collaborative
 
-Mise en forme des retours collectés autour de la traduction
-collaborative :
+À l'occasion de la traduction du livre [[http://openmodels.fr/fr][Open Models]] du français vers
+l'anglais, nous nous sommes demandé si les pratiques des traducteurs
+évoluaient avec Internet, en particulier là où « Internet » rime avec
+« collaboration ».
 
-- chez Framasoft
-- sur Wikipédia
-- auprès des traducteurs professionnels
-- auprès des traducteurs de la distribution Linux Fedora
-- auprès des traducteurs du projet GNOME
+Nous avons donc sollicité un traducteur professionnel (Samy Boutayeb)
+et plusieurs traducteurs qui interviennent tous dans des projets liés
+à la [[https://fr.wikipedia.org/wiki/Culture_libre][culture libre]].
 
-Toutes les interviews sont sous licence [[https://creativecommons.org/licenses/by-sa/4.0/][Creative Commons BY-SA 4.0]].
+Vous trouvez ces entretiens ici :
+
+- Entretien avec Samy Boutayeb, traducteur professionnel ;
+
+- [[https://github.com/bzg/traduction-collaborative/blob/master/traduction-fedora.org][Entretien avec Jean-Baptiste Holcroft]], coordinateur de l’équipe de
+  traduction francophone de la distribution GNU-Linux Fedora ;
+
+- [[https://github.com/bzg/traduction-collaborative/blob/master/traduction-gnome.org][Entretien avec Alexandre Franke]], coordinateur de l'équipe de
+  traduction du projet GNOME ;
+
+- [[https://github.com/bzg/traduction-collaborative/blob/master/traduction-libre-et-ouverte.org][Plongée dans la traduction collaborative chez Framasoft]] ;
+
+- [[https://github.com/bzg/traduction-collaborative/blob/master/traduction-wikipedia.org][Entretien collectif avec des wikipédiens]].
+
+Toutes les interviews sont publiées sous licence [[https://creativecommons.org/licenses/by-sa/4.0/][Creative Commons
+BY-SA 4.0]] : vous êtes libres de les diffuser, de les améliorer, de
+publier des versions améliorées et... de les traduire.
+
+Si vous voyez des fautes, n'hésitez pas à proposer des corrections.
+
+Si vous voulez ajoutez votre témoignage, contactez-moi.
