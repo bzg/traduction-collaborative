@@ -1,4 +1,4 @@
-#+title: Traduction Collaborative
+#+title: Entretiens autour de la traduction collaborative
 
 À l'occasion de la traduction du livre [[http://openmodels.fr/fr][Open Models]] du français vers
 l'anglais, nous nous sommes demandé si les pratiques des traducteurs
