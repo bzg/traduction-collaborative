@@ -11,7 +11,7 @@ et plusieurs traducteurs qui interviennent tous dans des projets liés
 
 Vous trouvez ces entretiens ici :
 
-- Entretien avec Samy Boutayeb, traducteur professionnel ;
+- [[https://github.com/bzg/traduction-collaborative/blob/master/traduction-professionelle.org][Entretien avec Samy Boutayeb]], traducteur professionnel ;
 
 - [[https://github.com/bzg/traduction-collaborative/blob/master/traduction-fedora.org][Entretien avec Jean-Baptiste Holcroft]], coordinateur de l’équipe de
   traduction francophone de la distribution GNU-Linux Fedora ;
