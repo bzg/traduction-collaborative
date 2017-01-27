@@ -1,5 +1,18 @@
 #+title: Plongée dans la traduction collaborative chez Framasoft
 
+Tout le monde a entendu parler d'un "frama"-quelque chose : framadate,
+framapad, framateam, framabook, framablog... tous ces outils sont
+maintenus par Framasoft, le réseau dédié à la promotion du « libre »,
+qui est aussi à l'orgine du mouvement « dégooglisons internet ».  Le
+Framablog propose souvent des articles traduits depuis d'autres
+langues, créant ainsi des passerelles entre le mouvement du libre en
+France et dans d'autres pays.  Nous sommes allés à la rencontre des
+traducteurs pour comprendre leur manière de travailler.  Pierre-Yves
+Gosset, Jean-Bernard Marcon, Pouhiou et Christophe Masutti répondent
+aux questions de Bastien Guerry.
+
+Cette interview est sous licence Creative Commons BY-SA 4.0.
+
 * Comment fonctionnent les traductions d'articles sur le Framablog ?
 
 # De la sélection des articles à traduire à la publication et à la modération des commentaires.
@@ -29,7 +42,7 @@ Une fois l'article publié, c'est l'équipe du Framablog qui se charge
 de répondre aux commentaires et de les modérer, mais nous avons de la
 chance : nous avons un lectorat très respectueux.
 
-* Quels outils (libres!) utilisez-vous ? 
+* Quels outils (libres!) utilisez-vous ?
 
 Nous hébergeons nos listes de discussion avec [[https://www.sympa.org][Sympa]], nous utilisons
 [[https://framapad.org][Framapad]] (notre instance d'Etherpad) avec l’extension [[https://mypads.framapad.org/mypads/][MyPads]] pour la
@@ -125,4 +138,3 @@ natif lorsqu'on traduit vers le français, par un anglophone natif
 lorsqu'on traduit vers l'anglais, etc.  Les cas de vrai bilinguisme
 sont assez rares.  Il faut que le lecteur oublie qu'il s'agit d'une
 traduction !
-

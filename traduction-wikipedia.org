@@ -1,6 +1,14 @@
 #+TITLE: La traduction sur les Wikipédias
 
-* Présentation
+L'une des richesses de Wikipédia est la traduction du contenu dans de
+nombreuses langues, parfois rares. De la même façon que des contenus
+sont écrits et vérifiés par la communauté, certains articles sont
+traduits puis vérifiés, pour peu que des contributeurs s'attellent à
+la tâche. Entre besoin, intérêt et difficulté, la traduction se révèle
+être une expérience contributive différente de la production de
+contenu original.
+
+Cette interview est sous licence Creative Commons BY-SA 4.0.
 
 Ces témoignages croisés ont été menés par écrit : les questions ont
 été postées en ligne par Bastien et les wikipédiens y ont répondu par
@@ -12,8 +20,8 @@ Voici la liste des wikipédiens qui ont eu la gentillesse de répondre :
 
 - [[https://fr.wikipedia.org/wiki/Utilisateur:Trizek][Benoît Evellin]] (en tant bénévole et non en tant que prestataire de
   la Wikimedia Foundation)
-- [[https://fr.wikipedia.org/wiki/Utilisateur:Daehan][C. Hernandez]] 
-- [[https://fr.wikipedia.org/wiki/Utilisateur:Matou91][Charlotte Matou]] 
+- [[https://fr.wikipedia.org/wiki/Utilisateur:Daehan][C. Hernandez]]
+- [[https://fr.wikipedia.org/wiki/Utilisateur:Matou91][Charlotte Matou]]
 - [[https://fr.wikipedia.org/wiki/Utilisateur:Cbyd][Dominique]]
 - [[https://fr.wikipedia.org/wiki/Utilisateur:Pradoliv][Eduardo]]
 - [[https://fr.wikipedia.org/wiki/Utilisateur:Otourly][Florian F.]]
@@ -303,4 +311,3 @@ l'outil de traduction fait discuter les malheureux membres du projet
 il génère du code inutile, et donc j'espère que l'utilisation de
 l'outil ne se répandra pas avant la publication d'une version plus
 propre.
-
