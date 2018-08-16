@@ -9,17 +9,17 @@ Nous avons donc sollicité un traducteur professionnel (Samy Boutayeb)
 et plusieurs traducteurs qui interviennent tous dans des projets liés
 à la [[https://fr.wikipedia.org/wiki/Culture_libre][culture libre]].
 
-Vous trouvez ces entretiens ici :
+Vous trouvez ces entretiens ici :
 
-- [[https://github.com/bzg/traduction-collaborative/blob/master/traduction-professionelle.org][Entretien avec Samy Boutayeb]], traducteur professionnel ;
+- [[https://github.com/bzg/traduction-collaborative/blob/master/traduction-professionelle.org][Entretien avec Samy Boutayeb]], traducteur professionnel ;
 
 - [[https://github.com/bzg/traduction-collaborative/blob/master/traduction-fedora.org][Entretien avec Jean-Baptiste Holcroft]], coordinateur de l’équipe de
-  traduction francophone de la distribution GNU-Linux Fedora ;
+  traduction francophone de la distribution GNU-Linux Fedora ;
 
 - [[https://github.com/bzg/traduction-collaborative/blob/master/traduction-gnome.org][Entretien avec Alexandre Franke]], coordinateur de l'équipe de
-  traduction du projet GNOME ;
+  traduction du projet GNOME ;
 
-- [[https://github.com/bzg/traduction-collaborative/blob/master/traduction-libre-et-ouverte.org][Plongée dans la traduction collaborative chez Framasoft]] ;
+- [[https://github.com/bzg/traduction-collaborative/blob/master/traduction-libre-et-ouverte.org][Plongée dans la traduction collaborative chez Framasoft]] ;
 
 - [[https://github.com/bzg/traduction-collaborative/blob/master/traduction-wikipedia.org][Entretien collectif avec des wikipédiens]].
 
