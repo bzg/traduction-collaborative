@@ -1,7 +1,5 @@
-#+title: Plongée dans la traduction collaborative chez Framasoft
-
 Tout le monde a entendu parler d'un "frama"-quelque chose : framadate,
-framapad, framateam, framabook, framablog... tous ces outils sont
+framapad, framateam, framabook, framablog&#x2026; tous ces outils sont
 maintenus par Framasoft, le réseau dédié à la promotion du « libre »,
 qui est aussi à l'orgine du mouvement « dégooglisons internet ».  Le
 Framablog propose souvent des articles traduits depuis d'autres
@@ -13,12 +11,11 @@ aux questions de Bastien Guerry.
 
 Cette interview est sous licence Creative Commons BY-SA 4.0.
 
-* Comment fonctionnent les traductions d'articles sur le Framablog ?
 
-# De la sélection des articles à traduire à la publication et à la modération des commentaires.
+# Comment fonctionnent les traductions d'articles sur le Framablog ?
 
 Tout est fait de manière communautaire.  Un·e membre du groupe
-[[http://framablog.org/2008/12/04/framalang-la-traduction-sur-framasoft/][Framalang]] propose aux autres une traduction sur notre liste de
+[Framalang](http://framablog.org/2008/12/04/framalang-la-traduction-sur-framasoft/) propose aux autres une traduction sur notre liste de
 discussion.  Dès que deux ou trois membres annoncent qu'ils sont
 d'accord pour traduire ensemble, nous préparons le texte et lançons la
 la traduction sur un pad.
@@ -42,24 +39,26 @@ Une fois l'article publié, c'est l'équipe du Framablog qui se charge
 de répondre aux commentaires et de les modérer, mais nous avons de la
 chance : nous avons un lectorat très respectueux.
 
-* Quels outils (libres!) utilisez-vous ?
 
-Nous hébergeons nos listes de discussion avec [[https://www.sympa.org][Sympa]], nous utilisons
-[[https://framapad.org][Framapad]] (notre instance d'Etherpad) avec l’extension [[https://mypads.framapad.org/mypads/][MyPads]] pour la
-traduction collaborative, et [[https://wordpress.org/][Wordpress]] pour ce qui est du blog.
+# Quels outils (libres!) utilisez-vous ?
+
+Nous hébergeons nos listes de discussion avec [Sympa](https://www.sympa.org), nous utilisons
+[Framapad](https://framapad.org) (notre instance d'Etherpad) avec l’extension [MyPads](https://mypads.framapad.org/mypads/) pour la
+traduction collaborative, et [Wordpress](https://wordpress.org/) pour ce qui est du blog.
 
 Le groupe a aussi développé un petit outil de suivi en PHP qui nous
 permet de retrouver facilement les adresses des pads et de suivre leur
 avancement.
 
 Enfin, pour nous détendre, nous avons ouvert une équipe « Le bar
-Framalang » sur [[https://framateam.org/][Framateam]], une instance de [[http://www.mattermost.org][Mattermost]].  Mais c'est
+Framalang » sur [Framateam](https://framateam.org/), une instance de [Mattermost](http://www.mattermost.org).  Mais c'est
 juste un espace de convivialité pour éviter d'inonder les listes
 d'e-mails : il est interdit d'y parler boulot dessus ^^ !
 
-* Est-ce qu'il y a des outils qui vous manquent ?  Si oui, lesquels ?
 
-Il nous manque surtout... du temps !
+# Est-ce qu'il y a des outils qui vous manquent ?  Si oui, lesquels ?
+
+Il nous manque surtout&#x2026; du temps !
 
 Certes il manque souvent des mémoires de traduction, mais comme chaque
 projet de traduction est unique (un article de presse, un tutoriel de
@@ -68,11 +67,12 @@ termes sur la traduction desquels nous sommes d'accord pour harmoniser
 l'ensemble de la traduction à la fin.
 
 Pour des projets plus conséquents, nous utilisons le même outil que
-chez Mozilla francophone, le [[https://transvision.mozfr.org][Transvision]] : cette interface permet de
+chez Mozilla francophone, le [Transvision](https://transvision.mozfr.org) : cette interface permet de
 trouver des traductions déjà effectuées dans de nombreux logiciels et
 de nombreuses pages web, et ceci dans plus d'une centaine de langues.
 
-* Quels conseils donneriez-vous à des groupes qui veulent traduire à plusieurs ?
+
+# Quels conseils donneriez-vous à des groupes qui veulent traduire à plusieurs ?
 
 Il faut veiller à conjuguer horizontalité et verticalité.
 
@@ -90,7 +90,7 @@ compétences d'un bon traducteur sont d'abord linguistiques et non
 informatiques.  Si l'on souhaite recruter des traducteurs du meilleur
 niveau possible, il ne faut pas les décourager en leur proposant des
 outils demandant une initiation trop longue et des compétences
-techniques.  [[https://git-scm.com/][Git]], par exemple, est un excellent outil de développement
+techniques.  [Git](https://git-scm.com/), par exemple, est un excellent outil de développement
 collaboratif pour le code, mais son accès peut tenir à l'écart de
 nombreuses personnes qui apporteraient des éléments de traduction
 précieux et qui ne franchiront pas l'obstacle d'un apprentissage de
@@ -126,7 +126,7 @@ des « grammarnazis ».  Ces appellations sont à prendre au second
 degré : il s'agit de personnes très exigeantes qui vont effectuer des
 corrections, des mises en forme, nettoyer les inévitables coquilles,
 ajouter les espaces insécables, traquer le solécisme, défoncer le
-barbarisme, débusquer les impropriétés... bref : s'efforcer de donner
+barbarisme, débusquer les impropriétés&#x2026; bref : s'efforcer de donner
 au rendu final une qualité la plus proche possible de la qualité
 professionnelle.
 
@@ -138,3 +138,4 @@ natif lorsqu'on traduit vers le français, par un anglophone natif
 lorsqu'on traduit vers l'anglais, etc.  Les cas de vrai bilinguisme
 sont assez rares.  Il faut que le lecteur oublie qu'il s'agit d'une
 traduction !
+

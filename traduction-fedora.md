@@ -1,8 +1,7 @@
-#+TITLE: Interview de Jean-Baptiste Holcroft (GNU/Linux Fedora)
+Cette interview est sous licence [CC by-sa 4.0](https://creativecommons.org/licenses/by-sa/).
 
-Cette interview est sous licence [[https://creativecommons.org/licenses/by-sa/][CC by-sa 4.0]].
 
-* Bonjour Jean-Baptiste. Comment te présenter ? Tu es développeur et traducteur pour des distributions GNU/Linux ?
+# Bonjour Jean-Baptiste. Comment te présenter ? Tu es développeur et traducteur pour des distributions GNU/Linux ?
 
 Je suis principalement utilisateur de GNU/Linux, traducteur de
 quelques projets, coordinateur de l’équipe de traduction francophone
@@ -18,7 +17,8 @@ développement sont très rudimentaires, mon métier est lié à
 l’informatique mais j'utilise principalement des outils de
 bureautique.
 
-* En quoi consiste la (ou les) tâche(s) de traduction, sous Fedora par exemple ?
+
+# En quoi consiste la (ou les) tâche(s) de traduction, sous Fedora par exemple ?
 
 Fedora est une plate-forme, une distribution comportant le fruit du
 travail de milliers de personnes et tout autant de projets différents.
@@ -34,7 +34,7 @@ ou des projets pour lesquels nous avons une appétence ou que nous
 souhaitons soutenir.
 
 Pour la traduction d’un logiciel de la communauté Fedora, il faut se
-rendre sur https://fedora.zanata.org, sélectionner son projet, sa
+rendre sur <https://fedora.zanata.org>, sélectionner son projet, sa
 branche, puis une interface graphique tout à fait ergonomique permet
 de travailler et de s’appuyer sur les traductions déjà réalisées (via
 une mémoire de traduction) ou le glossaire.
@@ -42,16 +42,17 @@ une mémoire de traduction) ou le glossaire.
 Concernant la coordination, mon travail consiste en quelques tâches
 clef :
 
-- Comprendre quels sont les projets à traduire (nouveaux projets
-  importants, nouvelles versions, etc) et où aller réaliser le travail
-  (chaque projet peut avoir son outil ou s’être greffé à une
-  plate-forme) ;
+-   Comprendre quels sont les projets à traduire (nouveaux projets
+    importants, nouvelles versions, etc) et où aller réaliser le travail
+    (chaque projet peut avoir son outil ou s’être greffé à une
+    plate-forme) ;
 
-- informer les contributeurs et traduire avec eux ;
+-   informer les contributeurs et traduire avec eux ;
 
-- contrôler que notre travail atteint bien l’utilisateur final.
+-   contrôler que notre travail atteint bien l’utilisateur final.
 
-* Quels sont les aspects agréables… ou ingrats de cet exercice ?
+
+# Quels sont les aspects agréables… ou ingrats de cet exercice ?
 
 Les traducteurs sont des citoyens du monde qui aiment leur langue,
 celle-ci est le vecteur de la culture.  Donc contribuer à la
@@ -87,7 +88,8 @@ d’indépendance des communautés linguistiques.  Comme les français sont
 nombreux et qu’ils produisent beaucoup de bons logiciels libres, c’est
 souvent transparent, mais cela reste très inefficace !
 
-* Est-ce qu’il s’agit seulement de volontaires, ou bien travaillez-vous aussi avec des traducteurs professionnels ?
+
+# Est-ce qu’il s’agit seulement de volontaires, ou bien travaillez-vous aussi avec des traducteurs professionnels ?
 
 Le professionnel sera a priori meilleur en anglais, l’exercice
 régulier lui apporte de bons réflexes et une expérience certaine, mais
@@ -103,7 +105,8 @@ l’internationalisation (polices, méthodes de saisie), la production
 d’outils (installateur, plate-forme de traduction), la documentation
 et les sites internet.
 
-* Comment vois-tu évoluer la traduction pour les distributions libres dans les années à venir ?
+
+# Comment vois-tu évoluer la traduction pour les distributions libres dans les années à venir ?
 
 Mon sentiment est que nous avons perdu une génération de contributeurs
 et de pratiques, les archives des listes de diffusion, des Wikis et
@@ -112,18 +115,19 @@ baisse de régime.
 
 J’ai plusieurs souhaits pour l’avenir :
 
-- disposer d’outils de mesure/suivi qualité globaux à l’échelle de
-  l’ensemble de la plate-forme Fedora (Pology, Transvision,
-  Grammalecte, etc.),
+-   disposer d’outils de mesure/suivi qualité globaux à l’échelle de
+    l’ensemble de la plate-forme Fedora (Pology, Transvision,
+    Grammalecte, etc.),
 
-- créer un canal de diffusion simplifié des traductions, ayant un
-  couplage moins fort avec la création de paquet.
+-   créer un canal de diffusion simplifié des traductions, ayant un
+    couplage moins fort avec la création de paquet.
 
 Les changements actuels concernant l’empaquetage des logiciels ne me
 semblent pas pouvoir influer sur les traductions, mais peut-être
 suis-je complètement dans l’erreur 😏.
 
-* Est-ce que c’est une expérience que tu arrives à valoriser ailleurs que dans « le libre » ?
+
+# Est-ce que c’est une expérience que tu arrives à valoriser ailleurs que dans « le libre » ?
 
 Je n’arrive pas encore à valoriser cette expérience à titre
 professionnel, mais j’y travaille !  Dans tous les cas, l’engagement
@@ -131,7 +135,8 @@ associatif est enrichissant et toujours apprécié, surtout que traduire
 implique de découvrir de nombreuses fonctionnalités et outils que l’on
 peut ensuite utiliser et promouvoir.
 
-* Un dernier mot pour encourager des futurs contributeurs ?
+
+# Un dernier mot pour encourager des futurs contributeurs ?
 
 Nelson Mandela disait : « If you talk to a man in a language he
 understands, that goes to his head.  If you talk to him in his
@@ -146,3 +151,4 @@ il faut surtout trouver où le faire ;)
 Utilisez votre langue et écrivez avec elle, même si votre sujet est
 pointu, même si votre auditoire est probablement plus restreint que
 l’anglais.
+
